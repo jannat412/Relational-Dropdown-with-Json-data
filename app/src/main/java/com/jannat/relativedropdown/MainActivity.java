@@ -21,7 +21,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     private static Context context;
-    private Spinner spinner_division,spinner_district,spinner_upozila;
+    private Spinner spinner_division,spinner_district,spinner_upozila, spinner_union, spinner_village;
     private final String TAG = MainActivity.this.getClass().getSimpleName();
 
     @Override
@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
         spinner_division = findViewById(R.id.spinner_division);
         spinner_district = findViewById(R.id.spinner_district);
         spinner_upozila = findViewById(R.id.spinner_upozila);
+        spinner_union = findViewById(R.id.spinner_union);
+        spinner_village = findViewById(R.id.spinner_village);
 
         loadDivisionJsonFromAssets();
     }
@@ -90,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    private void loadDistrictJsonFromAssets(String divisionId) {
+    private void loadDistrictJsonFromAssets(String regionId) {
         String json = null;
         try {
             InputStream inputStream = getAssets().open("bd-districts.json");
@@ -112,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
 
             for (int i = 0; i < jsonArray.length(); i++) {
                 JSONObject districtObject = jsonArray.getJSONObject(i);
-                if (districtObject.getString("division_id").contains(divisionId)){
+                if (districtObject.getString("region_id").contains(regionId)){
                     arrayList.add(districtObject);
                 }
             }
@@ -192,8 +194,129 @@ public class MainActivity extends AppCompatActivity {
                         JSONObject upozilaObject = arrayList.get(position);
                         String upozilaId = upozilaObject.getString("id");
                         String upozilaName = upozilaObject.getString("name");
+                        loadUnionJsonFromAssets(upozilaId);
+                        Toast.makeText(MainActivity.this, "id: "+upozilaId+" Upazilla: "+ upozilaName, Toast.LENGTH_SHORT).show();
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+                }
 
-                        Toast.makeText(MainActivity.this, "id: "+upozilaId+" District: "+ upozilaName, Toast.LENGTH_SHORT).show();
+                @Override
+                public void onNothingSelected(AdapterView<?> parent) {
+
+                }
+            });
+
+        } catch (JSONException jsonException) {
+            jsonException.printStackTrace();
+        }
+    }
+
+    private void loadUnionJsonFromAssets(String upazilaId) {
+        String json = null;
+        try {
+            InputStream inputStream = getAssets().open("bd-union.json");
+            int size = inputStream.available();
+            byte[] buffer = new byte[size];
+            inputStream.read(buffer);
+            inputStream.close();
+            json = new String(buffer, "UTF-8");
+        } catch (Exception ex) {
+            Log.d(TAG, "Value not found");
+            ex.printStackTrace();
+        }
+
+        try {
+            JSONObject jsonObject = new JSONObject(json);
+            final JSONArray jsonArray = jsonObject.getJSONArray("union");
+            final ArrayList<JSONObject> arrayList = new ArrayList<JSONObject>();
+            ArrayList<String> unionList = new ArrayList<String>();
+
+            for (int i = 0; i < jsonArray.length(); i++) {
+                JSONObject unionObject = jsonArray.getJSONObject(i);
+                if (unionObject.getString("upazilla_id").contains(upazilaId)){
+                    arrayList.add(unionObject);
+                }
+            }
+
+            for (int j = 0; j < arrayList.size(); j++){
+                JSONObject unionObject = arrayList.get(j);
+                unionList.add(unionObject.getString("name"));
+            }
+
+            ArrayAdapter<String> adp = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, unionList);
+            spinner_union.setAdapter(adp);
+
+            spinner_union.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+                @Override
+                public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                    try {
+                        JSONObject unionObject = arrayList.get(position);
+                        String unionId = unionObject.getString("id");
+                        String unionName = unionObject.getString("name");
+                        loadVillageJsonFromAssets(unionId);
+                        Toast.makeText(MainActivity.this, "id: "+unionId+" union: "+ unionName, Toast.LENGTH_SHORT).show();
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+                }
+
+                @Override
+                public void onNothingSelected(AdapterView<?> parent) {
+
+                }
+            });
+
+        } catch (JSONException jsonException) {
+            jsonException.printStackTrace();
+        }
+    }
+
+    private void loadVillageJsonFromAssets(String unionId) {
+        String json = null;
+        try {
+            InputStream inputStream = getAssets().open("bd-village.json");
+            int size = inputStream.available();
+            byte[] buffer = new byte[size];
+            inputStream.read(buffer);
+            inputStream.close();
+            json = new String(buffer, "UTF-8");
+        } catch (Exception ex) {
+            Log.d(TAG, "Value not found");
+            ex.printStackTrace();
+        }
+
+        try {
+            JSONObject jsonObject = new JSONObject(json);
+            final JSONArray jsonArray = jsonObject.getJSONArray("village");
+            final ArrayList<JSONObject> arrayList = new ArrayList<JSONObject>();
+            ArrayList<String> villageList = new ArrayList<String>();
+
+            for (int i = 0; i < jsonArray.length(); i++) {
+                JSONObject villageObject = jsonArray.getJSONObject(i);
+                if (villageObject.getString("union_id").contains(unionId)){
+                    arrayList.add(villageObject);
+                }
+            }
+
+            for (int j = 0; j < arrayList.size(); j++){
+                JSONObject villageObject = arrayList.get(j);
+                villageList.add(villageObject.getString("name"));
+            }
+
+            ArrayAdapter<String> adp = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, villageList);
+            spinner_village.setAdapter(adp);
+
+            spinner_village.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+                @Override
+                public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                    try {
+                        JSONObject villageObject = arrayList.get(position);
+                        String villageId = villageObject.getString("id");
+                        String villageName = villageObject.getString("name");
+                        String villageCode = villageObject.getString("village_code");
+
+                        Toast.makeText(MainActivity.this, "id: "+villageId+" village: "+ villageName + "village Code: "+villageCode, Toast.LENGTH_SHORT).show();
                     } catch (JSONException e) {
                         e.printStackTrace();
                     }

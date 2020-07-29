@@ -28,4 +28,18 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"/>
 
+    <Spinner
+        android:id="@+id/spinner_union"
+        android:textSize="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"/>
+
+    <Spinner
+        android:id="@+id/spinner_village"
+        android:textSize="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"/>
+
 </LinearLayout>

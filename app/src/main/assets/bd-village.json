@@ -1,0 +1,5686 @@
+{
+  "village": [
+    {
+      "id": "0001",
+      "union_id": "1322111",
+      "village_code": "13221110399",
+      "name": "Anandabari"
+    },
+    {
+      "id": "0002",
+      "union_id": "1322111",
+      "village_code": "13221110400",
+      "name": "Bulbulir Char"
+    },
+    {
+      "id": "0003",
+      "union_id": "1322111",
+      "village_code": "13221110401",
+      "name": "Char Chaumohan"
+    },
+    {
+      "id": "0004",
+      "union_id": "1322111",
+      "village_code": "13221110402",
+      "name": "Char Harichandi"
+    },
+    {
+      "id": "0005",
+      "union_id": "1322111",
+      "village_code": "13221110403",
+      "name": "Dakshin Harichandi"
+    },
+    {
+      "id": "0006",
+      "union_id": "1322111",
+      "village_code": "13221110404",
+      "name": "Paglar Char"
+    },
+    {
+      "id": "0007",
+      "union_id": "1322111",
+      "village_code": "13221110405",
+      "name": "Paschim Jigabari"
+    },
+    {
+      "id": "0008",
+      "union_id": "1322111",
+      "village_code": "13221110406",
+      "name": "Tinthopa"
+    },
+    {
+      "id": "0009",
+      "union_id": "1322111",
+      "village_code": "13221110407",
+      "name": "Uttar Sanyasi Paschim"
+    },
+    {
+      "id": "0010",
+      "union_id": "1322111",
+      "village_code": "13221110408",
+      "name": "Uttar Sanyasi Purba"
+    },
+    {
+      "id": "0011",
+      "union_id": "1322123",
+      "village_code": "13221230409",
+      "name": "Baje Telkupi"
+    },
+    {
+      "id": "0012",
+      "union_id": "1322123",
+      "village_code": "13221230410",
+      "name": "Chandaneshwari"
+    },
+    {
+      "id": "0013",
+      "union_id": "1322123",
+      "village_code": "13221230411",
+      "name": "Kauabada"
+    },
+    {
+      "id": "0014",
+      "union_id": "1322123",
+      "village_code": "13221230412",
+      "name": "Khatiamari Purba Char"
+    },
+    {
+      "id": "0015",
+      "union_id": "1322123",
+      "village_code": "13221230413",
+      "name": "Madhya Khatiamari"
+    },
+    {
+      "id": "0016",
+      "union_id": "1322123",
+      "village_code": "13221230414",
+      "name": "Uttar Khatiamari"
+    },
+    {
+      "id": "0017",
+      "union_id": "1322123",
+      "village_code": "13221230415",
+      "name": "Uzalerdanga"
+    },
+    {
+      "id": "0018",
+      "union_id": "1322135",
+      "village_code": "13221350416",
+      "name": "Baje Fulchhari"
+    },
+    {
+      "id": "0019",
+      "union_id": "1322135",
+      "village_code": "13221350417",
+      "name": "Kalur Para"
+    },
+    {
+      "id": "0020",
+      "union_id": "1322135",
+      "village_code": "13221350418",
+      "name": "Madhya Kholabari"
+    },
+    {
+      "id": "0021",
+      "union_id": "1322135",
+      "village_code": "13221350419",
+      "name": "Parul"
+    },
+    {
+      "id": "0022",
+      "union_id": "1322135",
+      "village_code": "13221350420",
+      "name": "Paschim Deluabari"
+    },
+    {
+      "id": "0023",
+      "union_id": "1322135",
+      "village_code": "13221350421",
+      "name": "Pipalia"
+    },
+    {
+      "id": "0024",
+      "union_id": "1322135",
+      "village_code": "13221350422",
+      "name": "Purba Deluabari"
+    },
+    {
+      "id": "0025",
+      "union_id": "1322135",
+      "village_code": "13221350423",
+      "name": "Tengrakandi"
+    },
+    {
+      "id": "0026",
+      "union_id": "1322147",
+      "village_code": "13221470424",
+      "name": "Bainkapara"
+    },
+    {
+      "id": "0027",
+      "union_id": "1322147",
+      "village_code": "13221470425",
+      "name": "Dakshin Katlamari"
+    },
+    {
+      "id": "0028",
+      "union_id": "1322147",
+      "village_code": "13221470426",
+      "name": "Galna"
+    },
+    {
+      "id": "0029",
+      "union_id": "1322147",
+      "village_code": "13221470427",
+      "name": "Jhanjhair"
+    },
+    {
+      "id": "0030",
+      "union_id": "1322147",
+      "village_code": "13221470428",
+      "name": "Katlamari Munshipara"
+    },
+    {
+      "id": "0031",
+      "union_id": "1322147",
+      "village_code": "13221470429",
+      "name": "Madhya Katlamari"
+    },
+    {
+      "id": "0032",
+      "union_id": "1322147",
+      "village_code": "13221470430",
+      "name": "Namapara Rail Line"
+    },
+    {
+      "id": "0033",
+      "union_id": "1322147",
+      "village_code": "13221470431",
+      "name": "Paschim Katlamari"
+    },
+    {
+      "id": "0034",
+      "union_id": "1322147",
+      "village_code": "13221470432",
+      "name": "Purba Katlamari"
+    },
+    {
+      "id": "0035",
+      "union_id": "1322147",
+      "village_code": "13221470433",
+      "name": "Uttar Madhya Katlamari"
+    },
+    {
+      "id": "0036",
+      "union_id": "1322183",
+      "village_code": "13221830434",
+      "name": "Kabilpur Char Ratanpur"
+    },
+    {
+      "id": "0037",
+      "union_id": "1322183",
+      "village_code": "13221830435",
+      "name": "Kalasona"
+    },
+    {
+      "id": "0038",
+      "union_id": "1322183",
+      "village_code": "13221830436",
+      "name": "Madhya Uria 2"
+    },
+    {
+      "id": "0039",
+      "union_id": "1322183",
+      "village_code": "13221830437",
+      "name": "Madhya Uria 3"
+    },
+    {
+      "id": "0040",
+      "union_id": "1322183",
+      "village_code": "13221830438",
+      "name": "Madhya Uria 4"
+    },
+    {
+      "id": "0041",
+      "union_id": "1322183",
+      "village_code": "13221830439",
+      "name": "Purba Ratanpur"
+    },
+    {
+      "id": "0042",
+      "union_id": "1322183",
+      "village_code": "13221830440",
+      "name": "Uttar Uria"
+    },
+    {
+      "id": "0043",
+      "union_id": "1328813",
+      "village_code": "13288130441",
+      "name": "Bhangamor"
+    },
+    {
+      "id": "0044",
+      "union_id": "1328813",
+      "village_code": "13288130442",
+      "name": "Char Paschim Para"
+    },
+    {
+      "id": "0045",
+      "union_id": "1328813",
+      "village_code": "13288130443",
+      "name": "Chithalia Badh"
+    },
+    {
+      "id": "0046",
+      "union_id": "1328813",
+      "village_code": "13288130444",
+      "name": "Dakshin Gatia"
+    },
+    {
+      "id": "0047",
+      "union_id": "1328813",
+      "village_code": "13288130445",
+      "name": "Kukrarhat"
+    },
+    {
+      "id": "0048",
+      "union_id": "1328813",
+      "village_code": "13288130446",
+      "name": "Nill Kuti Baluchar"
+    },
+    {
+      "id": "0049",
+      "union_id": "1328813",
+      "village_code": "13288130447",
+      "name": "Sakoa"
+    },
+    {
+      "id": "0050",
+      "union_id": "1328813",
+      "village_code": "13288130448",
+      "name": "Shankibhanga"
+    },
+    {
+      "id": "0051",
+      "union_id": "1328813",
+      "village_code": "13288130449",
+      "name": "Ulla Madhya Para Boramtair"
+    },
+    {
+      "id": "0052",
+      "union_id": "1328813",
+      "village_code": "13288130450",
+      "name": "Uttar Ulla Bazar"
+    },
+    {
+      "id": "0053",
+      "union_id": "1328838",
+      "village_code": "13288380451",
+      "name": "Bera"
+    },
+    {
+      "id": "0054",
+      "union_id": "1328838",
+      "village_code": "13288380452",
+      "name": "Dakshin Dighalkandi"
+    },
+    {
+      "id": "0055",
+      "union_id": "1328838",
+      "village_code": "13288380453",
+      "name": "Garamara"
+    },
+    {
+      "id": "0056",
+      "union_id": "1328838",
+      "village_code": "13288380454",
+      "name": "Gobindapur"
+    },
+    {
+      "id": "0057",
+      "union_id": "1328838",
+      "village_code": "13288380455",
+      "name": "Guabari"
+    },
+    {
+      "id": "0058",
+      "union_id": "1328838",
+      "village_code": "13288380456",
+      "name": "Kalur Para"
+    },
+    {
+      "id": "0059",
+      "union_id": "1328838",
+      "village_code": "13288380457",
+      "name": "Kanai Para"
+    },
+    {
+      "id": "0060",
+      "union_id": "1328838",
+      "village_code": "13288380458",
+      "name": "Kumar Para"
+    },
+    {
+      "id": "0061",
+      "union_id": "1328838",
+      "village_code": "13288380459",
+      "name": "Nalchhia"
+    },
+    {
+      "id": "0062",
+      "union_id": "1328838",
+      "village_code": "13288380460",
+      "name": "Patilbari"
+    },
+    {
+      "id": "0063",
+      "union_id": "1328838",
+      "village_code": "13288380461",
+      "name": "Uttar Dighalkandi"
+    },
+    {
+      "id": "0064",
+      "union_id": "1328847",
+      "village_code": "13288470462",
+      "name": "Bengar Para"
+    },
+    {
+      "id": "0065",
+      "union_id": "1328847",
+      "village_code": "13288470463",
+      "name": "Chand Para"
+    },
+    {
+      "id": "0066",
+      "union_id": "1328847",
+      "village_code": "13288470464",
+      "name": "Daichara"
+    },
+    {
+      "id": "0067",
+      "union_id": "1328847",
+      "village_code": "13288470465",
+      "name": "Datia Para"
+    },
+    {
+      "id": "0068",
+      "union_id": "1328847",
+      "village_code": "13288470466",
+      "name": "Kamar Para Baulahata"
+    },
+    {
+      "id": "0069",
+      "union_id": "1328847",
+      "village_code": "13288470467",
+      "name": "Kathur"
+    },
+    {
+      "id": "0070",
+      "union_id": "1328847",
+      "village_code": "13288470468",
+      "name": "Kunda Para"
+    },
+    {
+      "id": "0071",
+      "union_id": "1328847",
+      "village_code": "13288470469",
+      "name": "Mamudpur"
+    },
+    {
+      "id": "0072",
+      "union_id": "1328847",
+      "village_code": "13288470470",
+      "name": "Mechhat"
+    },
+    {
+      "id": "0073",
+      "union_id": "1328847",
+      "village_code": "13288470471",
+      "name": "Thaikarer Para"
+    },
+    {
+      "id": "0074",
+      "union_id": "1328857",
+      "village_code": "13288570472",
+      "name": "Agg Kachua"
+    },
+    {
+      "id": "0075",
+      "union_id": "1328857",
+      "village_code": "13288570473",
+      "name": "Balua"
+    },
+    {
+      "id": "0076",
+      "union_id": "1328857",
+      "village_code": "13288570474",
+      "name": "Baraikandi"
+    },
+    {
+      "id": "0077",
+      "union_id": "1328857",
+      "village_code": "13288570475",
+      "name": "Gachhabari"
+    },
+    {
+      "id": "0078",
+      "union_id": "1328857",
+      "village_code": "13288570476",
+      "name": "Jhailtala"
+    },
+    {
+      "id": "0079",
+      "union_id": "1328857",
+      "village_code": "13288570477",
+      "name": "Osmaner Para"
+    },
+    {
+      "id": "0080",
+      "union_id": "1328857",
+      "village_code": "13288570478",
+      "name": "Pachiarpur"
+    },
+    {
+      "id": "0081",
+      "union_id": "1328857",
+      "village_code": "13288570479",
+      "name": "Pathan Para"
+    },
+    {
+      "id": "0082",
+      "union_id": "1328857",
+      "village_code": "13288570480",
+      "name": "Ramnagar"
+    },
+    {
+      "id": "0083",
+      "union_id": "1328857",
+      "village_code": "13288570481",
+      "name": "Satitala"
+    },
+    {
+      "id": "0084",
+      "union_id": "1328885",
+      "village_code": "13288850482",
+      "name": "Bashhata"
+    },
+    {
+      "id": "0085",
+      "union_id": "1328885",
+      "village_code": "13288850483",
+      "name": "Dakshin Sathalia"
+    },
+    {
+      "id": "0086",
+      "union_id": "1328885",
+      "village_code": "13288850484",
+      "name": "Gobindi Dakshin"
+    },
+    {
+      "id": "0087",
+      "union_id": "1328885",
+      "village_code": "13288850485",
+      "name": "Gobindi Uttar"
+    },
+    {
+      "id": "0088",
+      "union_id": "1328885",
+      "village_code": "13288850486",
+      "name": "Hasilkandi"
+    },
+    {
+      "id": "0089",
+      "union_id": "1328885",
+      "village_code": "13288850487",
+      "name": "Hatbari"
+    },
+    {
+      "id": "0090",
+      "union_id": "1328885",
+      "village_code": "13288850488",
+      "name": "Saghata Akond Para"
+    },
+    {
+      "id": "0091",
+      "union_id": "1328885",
+      "village_code": "13288850489",
+      "name": "Saghata Mollah Para"
+    },
+    {
+      "id": "0092",
+      "union_id": "1328885",
+      "village_code": "13288850490",
+      "name": "Sathalia Guchogram"
+    },
+    {
+      "id": "0093",
+      "union_id": "1328885",
+      "village_code": "13288850491",
+      "name": "Sathalia Munsirhat"
+    },
+    {
+      "id": "0094",
+      "union_id": "1329112",
+      "village_code": "13291120492",
+      "name": "Jigabari"
+    },
+    {
+      "id": "0095",
+      "union_id": "1329112",
+      "village_code": "13291120493",
+      "name": "Kisamat Purba"
+    },
+    {
+      "id": "0096",
+      "union_id": "1329112",
+      "village_code": "13291120494",
+      "name": "Madhya Belka Uttar"
+    },
+    {
+      "id": "0097",
+      "union_id": "1329112",
+      "village_code": "13291120495",
+      "name": "Paschim Belka Purba"
+    },
+    {
+      "id": "0098",
+      "union_id": "1329112",
+      "village_code": "13291120496",
+      "name": "Paschim Nababganj"
+    },
+    {
+      "id": "0099",
+      "union_id": "1329112",
+      "village_code": "13291120497",
+      "name": "Paschim Taluk Belka"
+    },
+    {
+      "id": "0100",
+      "union_id": "1329112",
+      "village_code": "13291120498",
+      "name": "Purba Belka Madhya"
+    },
+    {
+      "id": "0101",
+      "union_id": "1329112",
+      "village_code": "13291120499",
+      "name": "Purba Belka Uttar"
+    },
+    {
+      "id": "0102",
+      "union_id": "1329112",
+      "village_code": "13291120500",
+      "name": "Purba Nababganj"
+    },
+    {
+      "id": "0103",
+      "union_id": "1329112",
+      "village_code": "13291120501",
+      "name": "Purba Taluk Belka"
+    },
+    {
+      "id": "0104",
+      "union_id": "1329118",
+      "village_code": "13291180502",
+      "name": "Faraji Para"
+    },
+    {
+      "id": "0105",
+      "union_id": "1329118",
+      "village_code": "13291180503",
+      "name": "Gidarhalla"
+    },
+    {
+      "id": "0106",
+      "union_id": "1329118",
+      "village_code": "13291180504",
+      "name": "Goder Khamar"
+    },
+    {
+      "id": "0107",
+      "union_id": "1329118",
+      "village_code": "13291180505",
+      "name": "Madhya Uzan Bochagari"
+    },
+    {
+      "id": "0108",
+      "union_id": "1329118",
+      "village_code": "13291180506",
+      "name": "Paschim Chandipur"
+    },
+    {
+      "id": "0109",
+      "union_id": "1329118",
+      "village_code": "13291180507",
+      "name": "Purba Chandipur"
+    },
+    {
+      "id": "0110",
+      "union_id": "1329118",
+      "village_code": "13291180508",
+      "name": "Purba Uzan Bochagari"
+    },
+    {
+      "id": "0111",
+      "union_id": "1329118",
+      "village_code": "13291180509",
+      "name": "Satinamari"
+    },
+    {
+      "id": "0112",
+      "union_id": "1329118",
+      "village_code": "13291180510",
+      "name": "Sicha  Bazar Khamar"
+    },
+    {
+      "id": "0113",
+      "union_id": "1329118",
+      "village_code": "13291180511",
+      "name": "Uttar Uzan Bochagari"
+    },
+    {
+      "id": "0114",
+      "union_id": "1329125",
+      "village_code": "13291250512",
+      "name": "Aralir Par"
+    },
+    {
+      "id": "0115",
+      "union_id": "1329125",
+      "village_code": "13291250513",
+      "name": "Chartari"
+    },
+    {
+      "id": "0116",
+      "union_id": "1329125",
+      "village_code": "13291250514",
+      "name": "Duramarir Gram"
+    },
+    {
+      "id": "0117",
+      "union_id": "1329125",
+      "village_code": "13291250515",
+      "name": "Gai Pathar Bill"
+    },
+    {
+      "id": "0118",
+      "union_id": "1329125",
+      "village_code": "13291250516",
+      "name": "Haudar Bhita"
+    },
+    {
+      "id": "0119",
+      "union_id": "1329125",
+      "village_code": "13291250517",
+      "name": "Jor Bhita"
+    },
+    {
+      "id": "0120",
+      "union_id": "1329125",
+      "village_code": "13291250518",
+      "name": "Khan Para"
+    },
+    {
+      "id": "0121",
+      "union_id": "1329125",
+      "village_code": "13291250519",
+      "name": "Maulvi Para"
+    },
+    {
+      "id": "0122",
+      "union_id": "1329125",
+      "village_code": "13291250520",
+      "name": "Parer Hatkhola"
+    },
+    {
+      "id": "0123",
+      "union_id": "1329125",
+      "village_code": "13291250521",
+      "name": "Takimarir Bill"
+    },
+    {
+      "id": "0124",
+      "union_id": "1329144",
+      "village_code": "13291440522",
+      "name": "Anwarer Char"
+    },
+    {
+      "id": "0125",
+      "union_id": "1329144",
+      "village_code": "13291440523",
+      "name": "Char Haripur"
+    },
+    {
+      "id": "0126",
+      "union_id": "1329144",
+      "village_code": "13291440524",
+      "name": "Current Bazar"
+    },
+    {
+      "id": "0127",
+      "union_id": "1329144",
+      "village_code": "13291440525",
+      "name": "Haripur Ganduram"
+    },
+    {
+      "id": "0128",
+      "union_id": "1329144",
+      "village_code": "13291440526",
+      "name": "Hazarir Char"
+    },
+    {
+      "id": "0129",
+      "union_id": "1329144",
+      "village_code": "13291440527",
+      "name": "Madari Para"
+    },
+    {
+      "id": "0130",
+      "union_id": "1329144",
+      "village_code": "13291440528",
+      "name": "Mollah Para"
+    },
+    {
+      "id": "0131",
+      "union_id": "1329144",
+      "village_code": "13291440529",
+      "name": "Parasadua"
+    },
+    {
+      "id": "0132",
+      "union_id": "1329144",
+      "village_code": "13291440530",
+      "name": "Paschim Lakhir Para"
+    },
+    {
+      "id": "0133",
+      "union_id": "1329144",
+      "village_code": "13291440531",
+      "name": "Purba Lakhir Para"
+    },
+    {
+      "id": "0134",
+      "union_id": "1329144",
+      "village_code": "13291440532",
+      "name": "Reaz Miar Char"
+    },
+    {
+      "id": "0135",
+      "union_id": "1329144",
+      "village_code": "13291440533",
+      "name": "Ujan Teora"
+    },
+    {
+      "id": "0136",
+      "union_id": "1329150",
+      "village_code": "13291500534",
+      "name": "Bajra Kanchibari Paschim"
+    },
+    {
+      "id": "0137",
+      "union_id": "1329150",
+      "village_code": "13291500535",
+      "name": "Bajra Kanchibari Purba"
+    },
+    {
+      "id": "0138",
+      "union_id": "1329150",
+      "village_code": "13291500536",
+      "name": "Chhaygharia"
+    },
+    {
+      "id": "0139",
+      "union_id": "1329150",
+      "village_code": "13291500537",
+      "name": "Dulal"
+    },
+    {
+      "id": "0140",
+      "union_id": "1329150",
+      "village_code": "13291500538",
+      "name": "Fazlar More"
+    },
+    {
+      "id": "0141",
+      "union_id": "1329150",
+      "village_code": "13291500539",
+      "name": "Kalir Bhita"
+    },
+    {
+      "id": "0142",
+      "union_id": "1329150",
+      "village_code": "13291500540",
+      "name": "Kella Bari"
+    },
+    {
+      "id": "0143",
+      "union_id": "1329150",
+      "village_code": "13291500541",
+      "name": "Paschim Dulal"
+    },
+    {
+      "id": "0144",
+      "union_id": "1329150",
+      "village_code": "13291500542",
+      "name": "Sokher Bazar"
+    },
+    {
+      "id": "0145",
+      "union_id": "1329150",
+      "village_code": "13291500543",
+      "name": "Uttar Kalir Khamar"
+    },
+    {
+      "id": "0146",
+      "union_id": "1329150",
+      "village_code": "13291500544",
+      "name": "Uttar Kanchibari"
+    },
+    {
+      "id": "0147",
+      "union_id": "1329156",
+      "village_code": "13291560545",
+      "name": "Adorsho Gram"
+    },
+    {
+      "id": "0148",
+      "union_id": "1329156",
+      "village_code": "13291560546",
+      "name": "Dalal Para"
+    },
+    {
+      "id": "0149",
+      "union_id": "1329156",
+      "village_code": "13291560547",
+      "name": "Deblir Par"
+    },
+    {
+      "id": "0150",
+      "union_id": "1329156",
+      "village_code": "13291560548",
+      "name": "Kajiar Char"
+    },
+    {
+      "id": "0151",
+      "union_id": "1329156",
+      "village_code": "13291560549",
+      "name": "Lalchamar"
+    },
+    {
+      "id": "0152",
+      "union_id": "1329156",
+      "village_code": "13291560550",
+      "name": "Paschim Lalchamar"
+    },
+    {
+      "id": "0153",
+      "union_id": "1329156",
+      "village_code": "13291560551",
+      "name": "Paschim Porar Char"
+    },
+    {
+      "id": "0154",
+      "union_id": "1329156",
+      "village_code": "13291560552",
+      "name": "Paschim Wapda Bandh"
+    },
+    {
+      "id": "0155",
+      "union_id": "1329156",
+      "village_code": "13291560553",
+      "name": "Purba Porar Char"
+    },
+    {
+      "id": "0156",
+      "union_id": "1329156",
+      "village_code": "13291560554",
+      "name": "Shingi Jani"
+    },
+    {
+      "id": "0157",
+      "union_id": "1329156",
+      "village_code": "13291560555",
+      "name": "Ton Gram"
+    },
+    {
+      "id": "0158",
+      "union_id": "1329156",
+      "village_code": "13291560556",
+      "name": "Wapda Bandh"
+    },
+    {
+      "id": "0159",
+      "union_id": "1329175",
+      "village_code": "13291750557",
+      "name": "Dakshin Sahabaj"
+    },
+    {
+      "id": "0160",
+      "union_id": "1329175",
+      "village_code": "13291750558",
+      "name": "Maji Para"
+    },
+    {
+      "id": "0161",
+      "union_id": "1329175",
+      "village_code": "13291750559",
+      "name": "Paschim Bachh Hati"
+    },
+    {
+      "id": "0162",
+      "union_id": "1329175",
+      "village_code": "13291750560",
+      "name": "Purba Bachh Hati"
+    },
+    {
+      "id": "0163",
+      "union_id": "1329175",
+      "village_code": "13291750561",
+      "name": "Rambhadra 5"
+    },
+    {
+      "id": "0164",
+      "union_id": "1329175",
+      "village_code": "13291750562",
+      "name": "Sarker Tari"
+    },
+    {
+      "id": "0165",
+      "union_id": "1329175",
+      "village_code": "13291750563",
+      "name": "Taluk Bajit"
+    },
+    {
+      "id": "0166",
+      "union_id": "1329188",
+      "village_code": "13291880564",
+      "name": "Changmari Ghospara"
+    },
+    {
+      "id": "0167",
+      "union_id": "1329188",
+      "village_code": "13291880565",
+      "name": "Dakshin Sreepur Changmari"
+    },
+    {
+      "id": "0168",
+      "union_id": "1329188",
+      "village_code": "13291880566",
+      "name": "Gachbari Chapra"
+    },
+    {
+      "id": "0169",
+      "union_id": "1329188",
+      "village_code": "13291880567",
+      "name": "Kazir Bhita Kosapara"
+    },
+    {
+      "id": "0170",
+      "union_id": "1329188",
+      "village_code": "13291880568",
+      "name": "Kurua Badha Goalbari"
+    },
+    {
+      "id": "0171",
+      "union_id": "1329188",
+      "village_code": "13291880569",
+      "name": "Lahiri Khamar Kellabari"
+    },
+    {
+      "id": "0172",
+      "union_id": "1329188",
+      "village_code": "13291880570",
+      "name": "Majipara Valaroy"
+    },
+    {
+      "id": "0173",
+      "union_id": "1329188",
+      "village_code": "13291880571",
+      "name": "Nayan Sukh Baraikandi"
+    },
+    {
+      "id": "0174",
+      "union_id": "1329188",
+      "village_code": "13291880572",
+      "name": "Paschim Satinamari"
+    },
+    {
+      "id": "0175",
+      "union_id": "1329188",
+      "village_code": "13291880573",
+      "name": "Purba Satinamari"
+    },
+    {
+      "id": "0176",
+      "union_id": "1329188",
+      "village_code": "13291880574",
+      "name": "Putimari Dakuar Bhita"
+    },
+    {
+      "id": "0177",
+      "union_id": "1329194",
+      "village_code": "13291940575",
+      "name": "Bhati Tarapur"
+    },
+    {
+      "id": "0178",
+      "union_id": "1329194",
+      "village_code": "13291940576",
+      "name": "Char Bhati Tarapur"
+    },
+    {
+      "id": "0179",
+      "union_id": "1329194",
+      "village_code": "13291940577",
+      "name": "Char Khurda"
+    },
+    {
+      "id": "0180",
+      "union_id": "1329194",
+      "village_code": "13291940578",
+      "name": "Dakshin Nizam Khan"
+    },
+    {
+      "id": "0181",
+      "union_id": "1329194",
+      "village_code": "13291940579",
+      "name": "Jamadar Char"
+    },
+    {
+      "id": "0182",
+      "union_id": "1329194",
+      "village_code": "13291940580",
+      "name": "Khurda"
+    },
+    {
+      "id": "0183",
+      "union_id": "1329194",
+      "village_code": "13291940581",
+      "name": "Madhya Nizam Khan"
+    },
+    {
+      "id": "0184",
+      "union_id": "1329194",
+      "village_code": "13291940582",
+      "name": "Madhya Tarapur"
+    },
+    {
+      "id": "0185",
+      "union_id": "1329194",
+      "village_code": "13291940583",
+      "name": "Tarapur"
+    },
+    {
+      "id": "0186",
+      "union_id": "1329194",
+      "village_code": "13291940584",
+      "name": "Uttar Nizam Khan"
+    },
+    {
+      "id": "0187",
+      "union_id": "1390711",
+      "village_code": "13907110001",
+      "name": "Alir Para"
+    },
+    {
+      "id": "0188",
+      "union_id": "1390711",
+      "village_code": "13907110002",
+      "name": "Balur Char"
+    },
+    {
+      "id": "0189",
+      "union_id": "1390711",
+      "village_code": "13907110003",
+      "name": "Bangal Para"
+    },
+    {
+      "id": "0190",
+      "union_id": "1390711",
+      "village_code": "13907110004",
+      "name": "Dakpara"
+    },
+    {
+      "id": "0191",
+      "union_id": "1390711",
+      "village_code": "13907110005",
+      "name": "Dakshin Bagar Char"
+    },
+    {
+      "id": "0192",
+      "union_id": "1390711",
+      "village_code": "13907110006",
+      "name": "Gopalpur"
+    },
+    {
+      "id": "0193",
+      "union_id": "1390711",
+      "village_code": "13907110007",
+      "name": "Khashergaon"
+    },
+    {
+      "id": "0194",
+      "union_id": "1390711",
+      "village_code": "13907110008",
+      "name": "Nama Para"
+    },
+    {
+      "id": "0195",
+      "union_id": "1390711",
+      "village_code": "13907110009",
+      "name": "Parir Char"
+    },
+    {
+      "id": "0196",
+      "union_id": "1390711",
+      "village_code": "13907110010",
+      "name": "Ramrampur"
+    },
+    {
+      "id": "0197",
+      "union_id": "1390711",
+      "village_code": "13907110011",
+      "name": "Satbhita"
+    },
+    {
+      "id": "0198",
+      "union_id": "1390711",
+      "village_code": "13907110012",
+      "name": "Suner Para"
+    },
+    {
+      "id": "0199",
+      "union_id": "1390711",
+      "village_code": "13907110013",
+      "name": "Taliapara"
+    },
+    {
+      "id": "0200",
+      "union_id": "1390711",
+      "village_code": "13907110014",
+      "name": "Uttar Bagar Char"
+    },
+    {
+      "id": "0201",
+      "union_id": "1390711",
+      "village_code": "13907110015",
+      "name": "Uttar Sharmara"
+    },
+    {
+      "id": "0202",
+      "union_id": "1390711",
+      "village_code": "13907110016",
+      "name": "Zula Para"
+    },
+    {
+      "id": "0203",
+      "union_id": "1390759",
+      "village_code": "13907590017",
+      "name": "Airmari"
+    },
+    {
+      "id": "0204",
+      "union_id": "1390759",
+      "village_code": "13907590018",
+      "name": "Fakir Para"
+    },
+    {
+      "id": "0205",
+      "union_id": "1390759",
+      "village_code": "13907590019",
+      "name": "Gugrakandi"
+    },
+    {
+      "id": "0206",
+      "union_id": "1390759",
+      "village_code": "13907590020",
+      "name": "Kalkihara Bhati"
+    },
+    {
+      "id": "0207",
+      "union_id": "1390759",
+      "village_code": "13907590021",
+      "name": "Kalkihara Uzan"
+    },
+    {
+      "id": "0208",
+      "union_id": "1390759",
+      "village_code": "13907590022",
+      "name": "Madarer Char"
+    },
+    {
+      "id": "0209",
+      "union_id": "1390759",
+      "village_code": "13907590023",
+      "name": "Maichanir Char"
+    },
+    {
+      "id": "0210",
+      "union_id": "1390759",
+      "village_code": "13907590024",
+      "name": "Zagir Para"
+    },
+    {
+      "id": "0211",
+      "union_id": "1390771",
+      "village_code": "13907710025",
+      "name": "Binoder Char"
+    },
+    {
+      "id": "0212",
+      "union_id": "1390771",
+      "village_code": "13907710026",
+      "name": "Dakshin Kushalnagar"
+    },
+    {
+      "id": "0213",
+      "union_id": "1390771",
+      "village_code": "13907710027",
+      "name": "Gomer Char"
+    },
+    {
+      "id": "0214",
+      "union_id": "1390771",
+      "village_code": "13907710028",
+      "name": "Maharband"
+    },
+    {
+      "id": "0215",
+      "union_id": "1390771",
+      "village_code": "13907710029",
+      "name": "Nilakshmia Paschimpara"
+    },
+    {
+      "id": "0216",
+      "union_id": "1390771",
+      "village_code": "13907710030",
+      "name": "Pagla Para"
+    },
+    {
+      "id": "0217",
+      "union_id": "1390771",
+      "village_code": "13907710031",
+      "name": "Sajimara"
+    },
+    {
+      "id": "0218",
+      "union_id": "1390771",
+      "village_code": "13907710032",
+      "name": "Uttar Kushalnagar"
+    },
+    {
+      "id": "0219",
+      "union_id": "1390783",
+      "village_code": "13907830033",
+      "name": "Airmari Khanpara"
+    },
+    {
+      "id": "0220",
+      "union_id": "1390783",
+      "village_code": "13907830034",
+      "name": "Archakanda"
+    },
+    {
+      "id": "0221",
+      "union_id": "1390783",
+      "village_code": "13907830035",
+      "name": "Bangal Para"
+    },
+    {
+      "id": "0222",
+      "union_id": "1390783",
+      "village_code": "13907830036",
+      "name": "Bilerpar"
+    },
+    {
+      "id": "0223",
+      "union_id": "1390783",
+      "village_code": "13907830037",
+      "name": "Char Gazir Para"
+    },
+    {
+      "id": "0224",
+      "union_id": "1390783",
+      "village_code": "13907830038",
+      "name": "Char Kamalerbati"
+    },
+    {
+      "id": "0225",
+      "union_id": "1390783",
+      "village_code": "13907830039",
+      "name": "Dakshin Datuakanda"
+    },
+    {
+      "id": "0226",
+      "union_id": "1390783",
+      "village_code": "13907830040",
+      "name": "Dakshin Kutuber Char"
+    },
+    {
+      "id": "0227",
+      "union_id": "1390783",
+      "village_code": "13907830041",
+      "name": "Gazir Para"
+    },
+    {
+      "id": "0228",
+      "union_id": "1390783",
+      "village_code": "13907830042",
+      "name": "Khatar Char Masjid Para"
+    },
+    {
+      "id": "0229",
+      "union_id": "1390783",
+      "village_code": "13907830043",
+      "name": "Madhya Datuakanda"
+    },
+    {
+      "id": "0230",
+      "union_id": "1390783",
+      "village_code": "13907830044",
+      "name": "Paschim Kamalerbati"
+    },
+    {
+      "id": "0231",
+      "union_id": "1390783",
+      "village_code": "13907830045",
+      "name": "Purba Kamalerbati"
+    },
+    {
+      "id": "0232",
+      "union_id": "1390783",
+      "village_code": "13907830046",
+      "name": "Thandarban"
+    },
+    {
+      "id": "0233",
+      "union_id": "1392913",
+      "village_code": "13929130047",
+      "name": "Berergram"
+    },
+    {
+      "id": "0234",
+      "union_id": "1392913",
+      "village_code": "13929130048",
+      "name": "Fakir Para"
+    },
+    {
+      "id": "0235",
+      "union_id": "1392913",
+      "village_code": "13929130049",
+      "name": "Goalerdoba"
+    },
+    {
+      "id": "0236",
+      "union_id": "1392913",
+      "village_code": "13929130050",
+      "name": "Gona Para"
+    },
+    {
+      "id": "0237",
+      "union_id": "1392913",
+      "village_code": "13929130051",
+      "name": "Kachhima"
+    },
+    {
+      "id": "0238",
+      "union_id": "1392913",
+      "village_code": "13929130052",
+      "name": "Miapara"
+    },
+    {
+      "id": "0239",
+      "union_id": "1392913",
+      "village_code": "13929130053",
+      "name": "Paschim Para"
+    },
+    {
+      "id": "0240",
+      "union_id": "1392913",
+      "village_code": "13929130054",
+      "name": "Uttar Madhya Belgachha"
+    },
+    {
+      "id": "0241",
+      "union_id": "1392915",
+      "village_code": "13929150055",
+      "name": "Char Gobindi"
+    },
+    {
+      "id": "0242",
+      "union_id": "1392915",
+      "village_code": "13929150056",
+      "name": "Digrir Char"
+    },
+    {
+      "id": "0243",
+      "union_id": "1392915",
+      "village_code": "13929150057",
+      "name": "Kandar Char"
+    },
+    {
+      "id": "0244",
+      "union_id": "1392947",
+      "village_code": "13929470058",
+      "name": "Bolaki Para"
+    },
+    {
+      "id": "0245",
+      "union_id": "1392947",
+      "village_code": "13929470059",
+      "name": "Kumirdaha"
+    },
+    {
+      "id": "0246",
+      "union_id": "1392947",
+      "village_code": "13929470060",
+      "name": "Malmara"
+    },
+    {
+      "id": "0247",
+      "union_id": "1392947",
+      "village_code": "13929470061",
+      "name": "Mohammadpur"
+    },
+    {
+      "id": "0248",
+      "union_id": "1392947",
+      "village_code": "13929470062",
+      "name": "Savar Char"
+    },
+    {
+      "id": "0249",
+      "union_id": "1392947",
+      "village_code": "13929470063",
+      "name": "Savukura"
+    },
+    {
+      "id": "0250",
+      "union_id": "1392955",
+      "village_code": "13929550064",
+      "name": "Kachihara"
+    },
+    {
+      "id": "0251",
+      "union_id": "1392955",
+      "village_code": "13929550065",
+      "name": "Panchbaria"
+    },
+    {
+      "id": "0252",
+      "union_id": "1392955",
+      "village_code": "13929550066",
+      "name": "Sankarpur"
+    },
+    {
+      "id": "0253",
+      "union_id": "1392979",
+      "village_code": "13929790067",
+      "name": "Char Baitkamari"
+    },
+    {
+      "id": "0254",
+      "union_id": "1392979",
+      "village_code": "13929790068",
+      "name": "Char Charia"
+    },
+    {
+      "id": "0255",
+      "union_id": "1392979",
+      "village_code": "13929790069",
+      "name": "Paschim Sirajabad"
+    },
+    {
+      "id": "0256",
+      "union_id": "1392979",
+      "village_code": "13929790070",
+      "name": "Purba Bahadurpur"
+    },
+    {
+      "id": "0257",
+      "union_id": "1490819",
+      "village_code": "14908190071",
+      "name": "Badarpur"
+    },
+    {
+      "id": "0258",
+      "union_id": "1490819",
+      "village_code": "14908190072",
+      "name": "Baliamari"
+    },
+    {
+      "id": "0259",
+      "union_id": "1490819",
+      "village_code": "14908190073",
+      "name": "Karati Para"
+    },
+    {
+      "id": "0260",
+      "union_id": "1490819",
+      "village_code": "14908190074",
+      "name": "Madaner Char"
+    },
+    {
+      "id": "0261",
+      "union_id": "1490819",
+      "village_code": "14908190075",
+      "name": "Member Para"
+    },
+    {
+      "id": "0262",
+      "union_id": "1490819",
+      "village_code": "14908190076",
+      "name": "Munshi Para"
+    },
+    {
+      "id": "0263",
+      "union_id": "1490819",
+      "village_code": "14908190077",
+      "name": "Pachim Rajibpur"
+    },
+    {
+      "id": "0264",
+      "union_id": "1490819",
+      "village_code": "14908190078",
+      "name": "Purba Bepari Para"
+    },
+    {
+      "id": "0265",
+      "union_id": "1490857",
+      "village_code": "14908570079",
+      "name": "Char Sajai Dawani Para"
+    },
+    {
+      "id": "0266",
+      "union_id": "1490857",
+      "village_code": "14908570080",
+      "name": "Char Sajai Mondol Para"
+    },
+    {
+      "id": "0267",
+      "union_id": "1490857",
+      "village_code": "14908570081",
+      "name": "Dakshin Char Sajai"
+    },
+    {
+      "id": "0268",
+      "union_id": "1490857",
+      "village_code": "14908570082",
+      "name": "Kader Member Para"
+    },
+    {
+      "id": "0269",
+      "union_id": "1490857",
+      "village_code": "14908570083",
+      "name": "Madhya Kodailkati"
+    },
+    {
+      "id": "0270",
+      "union_id": "1490857",
+      "village_code": "14908570084",
+      "name": "Sajai Karigor Para"
+    },
+    {
+      "id": "0271",
+      "union_id": "1490857",
+      "village_code": "14908570085",
+      "name": "Sajai Nuton Para"
+    },
+    {
+      "id": "0272",
+      "union_id": "1490857",
+      "village_code": "14908570086",
+      "name": "Uttar Kodailkati"
+    },
+    {
+      "id": "0273",
+      "union_id": "1490876",
+      "village_code": "14908760087",
+      "name": "Kirtaniatari"
+    },
+    {
+      "id": "0274",
+      "union_id": "1490876",
+      "village_code": "14908760088",
+      "name": "Pachim Swikar Pur"
+    },
+    {
+      "id": "0275",
+      "union_id": "1490876",
+      "village_code": "14908760089",
+      "name": "Panjar Para"
+    },
+    {
+      "id": "0276",
+      "union_id": "1490876",
+      "village_code": "14908760090",
+      "name": "Purba Swikar Pur"
+    },
+    {
+      "id": "0277",
+      "union_id": "1490876",
+      "village_code": "14908760091",
+      "name": "Uttar Baraber"
+    },
+    {
+      "id": "0278",
+      "union_id": "1491813",
+      "village_code": "14918130173",
+      "name": "Bagha Khawar Char"
+    },
+    {
+      "id": "0279",
+      "union_id": "1491813",
+      "village_code": "14918130174",
+      "name": "Bagha Khawar Ensor Tari"
+    },
+    {
+      "id": "0280",
+      "union_id": "1491813",
+      "village_code": "14918130175",
+      "name": "Bangla Bazar"
+    },
+    {
+      "id": "0281",
+      "union_id": "1491813",
+      "village_code": "14918130176",
+      "name": "Bepari Tari"
+    },
+    {
+      "id": "0282",
+      "union_id": "1491813",
+      "village_code": "14918130177",
+      "name": "Choy Boner Char"
+    },
+    {
+      "id": "0283",
+      "union_id": "1491813",
+      "village_code": "14918130178",
+      "name": "Geter Bazar"
+    },
+    {
+      "id": "0284",
+      "union_id": "1491813",
+      "village_code": "14918130179",
+      "name": "Hazi Tari Teli Para"
+    },
+    {
+      "id": "0285",
+      "union_id": "1491813",
+      "village_code": "14918130180",
+      "name": "Jharu Tari"
+    },
+    {
+      "id": "0286",
+      "union_id": "1491813",
+      "village_code": "14918130181",
+      "name": "Joler Par"
+    },
+    {
+      "id": "0287",
+      "union_id": "1491813",
+      "village_code": "14918130182",
+      "name": "Lomba Gram"
+    },
+    {
+      "id": "0288",
+      "union_id": "1491813",
+      "village_code": "14918130183",
+      "name": "Mazi Tari"
+    },
+    {
+      "id": "0289",
+      "union_id": "1491813",
+      "village_code": "14918130184",
+      "name": "Pramanik Tari"
+    },
+    {
+      "id": "0290",
+      "union_id": "1491827",
+      "village_code": "14918270185",
+      "name": "Abasan 2"
+    },
+    {
+      "id": "0291",
+      "union_id": "1491827",
+      "village_code": "14918270186",
+      "name": "Atharbari"
+    },
+    {
+      "id": "0292",
+      "union_id": "1491827",
+      "village_code": "14918270187",
+      "name": "Atiabari"
+    },
+    {
+      "id": "0293",
+      "union_id": "1491827",
+      "village_code": "14918270188",
+      "name": "Basuniatari"
+    },
+    {
+      "id": "0294",
+      "union_id": "1491827",
+      "village_code": "14918270189",
+      "name": "Dakshin Nagrajpur"
+    },
+    {
+      "id": "0295",
+      "union_id": "1491827",
+      "village_code": "14918270190",
+      "name": "Fakirtari"
+    },
+    {
+      "id": "0296",
+      "union_id": "1491827",
+      "village_code": "14918270191",
+      "name": "Khochabari"
+    },
+    {
+      "id": "0297",
+      "union_id": "1491827",
+      "village_code": "14918270192",
+      "name": "Majhitari 7"
+    },
+    {
+      "id": "0298",
+      "union_id": "1491827",
+      "village_code": "14918270193",
+      "name": "Majhitari 8"
+    },
+    {
+      "id": "0299",
+      "union_id": "1491827",
+      "village_code": "14918270194",
+      "name": "Najar Mamud"
+    },
+    {
+      "id": "0300",
+      "union_id": "1491827",
+      "village_code": "14918270195",
+      "name": "Rangamati"
+    },
+    {
+      "id": "0301",
+      "union_id": "1491827",
+      "village_code": "14918270196",
+      "name": "Samon Gram"
+    },
+    {
+      "id": "0302",
+      "union_id": "1491827",
+      "village_code": "14918270197",
+      "name": "Sardartari 8"
+    },
+    {
+      "id": "0303",
+      "union_id": "1491827",
+      "village_code": "14918270198",
+      "name": "Sardartari 9"
+    },
+    {
+      "id": "0304",
+      "union_id": "1491827",
+      "village_code": "14918270199",
+      "name": "Suzanerkuti"
+    },
+    {
+      "id": "0305",
+      "union_id": "1491827",
+      "village_code": "14918270200",
+      "name": "Uttar Nagarajpur"
+    },
+    {
+      "id": "0306",
+      "union_id": "1491867",
+      "village_code": "14918670201",
+      "name": "Balatari"
+    },
+    {
+      "id": "0307",
+      "union_id": "1491867",
+      "village_code": "14918670202",
+      "name": "Char Gorak Mandal"
+    },
+    {
+      "id": "0308",
+      "union_id": "1491867",
+      "village_code": "14918670203",
+      "name": "Jhaukuti"
+    },
+    {
+      "id": "0309",
+      "union_id": "1491867",
+      "village_code": "14918670204",
+      "name": "Kala Bagan"
+    },
+    {
+      "id": "0310",
+      "union_id": "1491867",
+      "village_code": "14918670205",
+      "name": "Krishna Nanoabaksi"
+    },
+    {
+      "id": "0311",
+      "union_id": "1491867",
+      "village_code": "14918670206",
+      "name": "Kurusa Furusa"
+    },
+    {
+      "id": "0312",
+      "union_id": "1491867",
+      "village_code": "14918670207",
+      "name": "Kuthi Bari"
+    },
+    {
+      "id": "0313",
+      "union_id": "1491867",
+      "village_code": "14918670208",
+      "name": "Naodanga"
+    },
+    {
+      "id": "0314",
+      "union_id": "1491867",
+      "village_code": "14918670209",
+      "name": "Pramaniktari"
+    },
+    {
+      "id": "0315",
+      "union_id": "1491867",
+      "village_code": "14918670210",
+      "name": "Purba Phulmati"
+    },
+    {
+      "id": "0316",
+      "union_id": "1491881",
+      "village_code": "14918810211",
+      "name": "Abason Para"
+    },
+    {
+      "id": "0317",
+      "union_id": "1491881",
+      "village_code": "14918810212",
+      "name": "Bhuiyar Kuthi"
+    },
+    {
+      "id": "0318",
+      "union_id": "1491881",
+      "village_code": "14918810213",
+      "name": "Char Jot Indranarayan"
+    },
+    {
+      "id": "0319",
+      "union_id": "1491881",
+      "village_code": "14918810214",
+      "name": "Char Shonai Kazi"
+    },
+    {
+      "id": "0320",
+      "union_id": "1491881",
+      "village_code": "14918810215",
+      "name": "Dakshin Shonai Kazi"
+    },
+    {
+      "id": "0321",
+      "union_id": "1491881",
+      "village_code": "14918810216",
+      "name": "Fakir Para"
+    },
+    {
+      "id": "0322",
+      "union_id": "1491881",
+      "village_code": "14918810217",
+      "name": "Jatindro Narayan Khaimuddi"
+    },
+    {
+      "id": "0323",
+      "union_id": "1491881",
+      "village_code": "14918810218",
+      "name": "Jot Indranarayan"
+    },
+    {
+      "id": "0324",
+      "union_id": "1491881",
+      "village_code": "14918810219",
+      "name": "Rowsan Shimulbari"
+    },
+    {
+      "id": "0325",
+      "union_id": "1491881",
+      "village_code": "14918810220",
+      "name": "Uttar Sonai Kazi"
+    },
+    {
+      "id": "0326",
+      "union_id": "1496111",
+      "village_code": "14961110092",
+      "name": "Bhater Haila"
+    },
+    {
+      "id": "0327",
+      "union_id": "1496111",
+      "village_code": "14961110093",
+      "name": "Bhitarband"
+    },
+    {
+      "id": "0328",
+      "union_id": "1496111",
+      "village_code": "14961110094",
+      "name": "Char Berubari"
+    },
+    {
+      "id": "0329",
+      "union_id": "1496111",
+      "village_code": "14961110095",
+      "name": "Dhariarpar"
+    },
+    {
+      "id": "0330",
+      "union_id": "1496111",
+      "village_code": "14961110096",
+      "name": "Fander Char"
+    },
+    {
+      "id": "0331",
+      "union_id": "1496111",
+      "village_code": "14961110097",
+      "name": "Hakimer Moth"
+    },
+    {
+      "id": "0332",
+      "union_id": "1496111",
+      "village_code": "14961110098",
+      "name": "Kumar Para"
+    },
+    {
+      "id": "0333",
+      "union_id": "1496111",
+      "village_code": "14961110099",
+      "name": "Maji Para"
+    },
+    {
+      "id": "0334",
+      "union_id": "1496111",
+      "village_code": "14961110100",
+      "name": "Pachim Char Krishnapur"
+    },
+    {
+      "id": "0335",
+      "union_id": "1496111",
+      "village_code": "14961110101",
+      "name": "Purba Char Krishnapur"
+    },
+    {
+      "id": "0336",
+      "union_id": "1496111",
+      "village_code": "14961110102",
+      "name": "Tapur Char"
+    },
+    {
+      "id": "0337",
+      "union_id": "1496112",
+      "village_code": "14961120103",
+      "name": "Char Luchhni Uttar"
+    },
+    {
+      "id": "0338",
+      "union_id": "1496112",
+      "village_code": "14961120104",
+      "name": "Dakshin Char Luchhni"
+    },
+    {
+      "id": "0339",
+      "union_id": "1496112",
+      "village_code": "14961120105",
+      "name": "Kuti Bamandanga Dakshin Para"
+    },
+    {
+      "id": "0340",
+      "union_id": "1496112",
+      "village_code": "14961120106",
+      "name": "Kuti Bamandanga Uttar Para"
+    },
+    {
+      "id": "0341",
+      "union_id": "1496112",
+      "village_code": "14961120107",
+      "name": "Kutir Char"
+    },
+    {
+      "id": "0342",
+      "union_id": "1496112",
+      "village_code": "14961120108",
+      "name": "Maliani"
+    },
+    {
+      "id": "0343",
+      "union_id": "1496112",
+      "village_code": "14961120109",
+      "name": "Pachim Luchhni"
+    },
+    {
+      "id": "0344",
+      "union_id": "1496112",
+      "village_code": "14961120110",
+      "name": "Uttar Luchhni"
+    },
+    {
+      "id": "0345",
+      "union_id": "1496125",
+      "village_code": "14961250111",
+      "name": "Baniar Bhita"
+    },
+    {
+      "id": "0346",
+      "union_id": "1496125",
+      "village_code": "14961250112",
+      "name": "Charua Para"
+    },
+    {
+      "id": "0347",
+      "union_id": "1496125",
+      "village_code": "14961250113",
+      "name": "Digdari"
+    },
+    {
+      "id": "0348",
+      "union_id": "1496125",
+      "village_code": "14961250114",
+      "name": "Jhakuabari"
+    },
+    {
+      "id": "0349",
+      "union_id": "1496125",
+      "village_code": "14961250115",
+      "name": "Madhaikhal"
+    },
+    {
+      "id": "0350",
+      "union_id": "1496125",
+      "village_code": "14961250116",
+      "name": "Monnearpar Mollapara"
+    },
+    {
+      "id": "0351",
+      "union_id": "1496125",
+      "village_code": "14961250117",
+      "name": "Shantipur Wabda"
+    },
+    {
+      "id": "0352",
+      "union_id": "1496125",
+      "village_code": "14961250118",
+      "name": "Uddamari Vatigau"
+    },
+    {
+      "id": "0353",
+      "union_id": "1496137",
+      "village_code": "14961370119",
+      "name": "Bala Para"
+    },
+    {
+      "id": "0354",
+      "union_id": "1496137",
+      "village_code": "14961370120",
+      "name": "Bhoter Hailla"
+    },
+    {
+      "id": "0355",
+      "union_id": "1496137",
+      "village_code": "14961370121",
+      "name": "Chhota Chorarpar"
+    },
+    {
+      "id": "0356",
+      "union_id": "1496137",
+      "village_code": "14961370122",
+      "name": "Dakshin Dhanirampur"
+    },
+    {
+      "id": "0357",
+      "union_id": "1496137",
+      "village_code": "14961370123",
+      "name": "Dakshin Indragar"
+    },
+    {
+      "id": "0358",
+      "union_id": "1496137",
+      "village_code": "14961370124",
+      "name": "Dakshin Sarkertari"
+    },
+    {
+      "id": "0359",
+      "union_id": "1496137",
+      "village_code": "14961370125",
+      "name": "Indragar"
+    },
+    {
+      "id": "0360",
+      "union_id": "1496137",
+      "village_code": "14961370126",
+      "name": "Kaiyar Char"
+    },
+    {
+      "id": "0361",
+      "union_id": "1496137",
+      "village_code": "14961370127",
+      "name": "Khamar"
+    },
+    {
+      "id": "0362",
+      "union_id": "1496137",
+      "village_code": "14961370128",
+      "name": "Khamar Bottala"
+    },
+    {
+      "id": "0363",
+      "union_id": "1496137",
+      "village_code": "14961370129",
+      "name": "Musallitari"
+    },
+    {
+      "id": "0364",
+      "union_id": "1496137",
+      "village_code": "14961370130",
+      "name": "Uttar Dhanirampur"
+    },
+    {
+      "id": "0365",
+      "union_id": "1496137",
+      "village_code": "14961370131",
+      "name": "Uttar Katajalas"
+    },
+    {
+      "id": "0366",
+      "union_id": "1496144",
+      "village_code": "14961440132",
+      "name": "Beguni Para"
+    },
+    {
+      "id": "0367",
+      "union_id": "1496144",
+      "village_code": "14961440133",
+      "name": "Bepari Para"
+    },
+    {
+      "id": "0368",
+      "union_id": "1496144",
+      "village_code": "14961440134",
+      "name": "Dhanir Bhita"
+    },
+    {
+      "id": "0369",
+      "union_id": "1496144",
+      "village_code": "14961440135",
+      "name": "Guchha Gram"
+    },
+    {
+      "id": "0370",
+      "union_id": "1496144",
+      "village_code": "14961440136",
+      "name": "Jokri Para"
+    },
+    {
+      "id": "0371",
+      "union_id": "1496144",
+      "village_code": "14961440137",
+      "name": "Korani Para"
+    },
+    {
+      "id": "0372",
+      "union_id": "1496144",
+      "village_code": "14961440138",
+      "name": "Kumriarpar"
+    },
+    {
+      "id": "0373",
+      "union_id": "1496144",
+      "village_code": "14961440139",
+      "name": "Monneyarpar"
+    },
+    {
+      "id": "0374",
+      "union_id": "1496144",
+      "village_code": "14961440140",
+      "name": "Nama Char"
+    },
+    {
+      "id": "0375",
+      "union_id": "1496144",
+      "village_code": "14961440141",
+      "name": "Obderbad"
+    },
+    {
+      "id": "0376",
+      "union_id": "1496144",
+      "village_code": "14961440142",
+      "name": "Phandar Bhita"
+    },
+    {
+      "id": "0377",
+      "union_id": "1496144",
+      "village_code": "14961440143",
+      "name": "Poddarer Bhita"
+    },
+    {
+      "id": "0378",
+      "union_id": "1496144",
+      "village_code": "14961440144",
+      "name": "Shibnather Bos"
+    },
+    {
+      "id": "0379",
+      "union_id": "1496150",
+      "village_code": "14961500145",
+      "name": "Balabari"
+    },
+    {
+      "id": "0380",
+      "union_id": "1496150",
+      "village_code": "14961500146",
+      "name": "Beparitari"
+    },
+    {
+      "id": "0381",
+      "union_id": "1496150",
+      "village_code": "14961500147",
+      "name": "Char Bishnupur"
+    },
+    {
+      "id": "0382",
+      "union_id": "1496150",
+      "village_code": "14961500148",
+      "name": "Char Teparkuti"
+    },
+    {
+      "id": "0383",
+      "union_id": "1496150",
+      "village_code": "14961500149",
+      "name": "Dhaluabari"
+    },
+    {
+      "id": "0384",
+      "union_id": "1496150",
+      "village_code": "14961500150",
+      "name": "Salamer Char"
+    },
+    {
+      "id": "0385",
+      "union_id": "1496150",
+      "village_code": "14961500151",
+      "name": "Satana"
+    },
+    {
+      "id": "0386",
+      "union_id": "1496150",
+      "village_code": "14961500152",
+      "name": "Sobharkuti"
+    },
+    {
+      "id": "0387",
+      "union_id": "1496163",
+      "village_code": "14961630153",
+      "name": "Adorsh Para"
+    },
+    {
+      "id": "0388",
+      "union_id": "1496163",
+      "village_code": "14961630154",
+      "name": "Balarhat"
+    },
+    {
+      "id": "0389",
+      "union_id": "1496163",
+      "village_code": "14961630155",
+      "name": "Chauddaghari"
+    },
+    {
+      "id": "0390",
+      "union_id": "1496163",
+      "village_code": "14961630156",
+      "name": "Dumurdaha"
+    },
+    {
+      "id": "0391",
+      "union_id": "1496163",
+      "village_code": "14961630157",
+      "name": "Jhaukuti"
+    },
+    {
+      "id": "0392",
+      "union_id": "1496163",
+      "village_code": "14961630158",
+      "name": "Kannyamati"
+    },
+    {
+      "id": "0393",
+      "union_id": "1496163",
+      "village_code": "14961630159",
+      "name": "Kazir Char"
+    },
+    {
+      "id": "0394",
+      "union_id": "1496163",
+      "village_code": "14961630160",
+      "name": "Majhiali"
+    },
+    {
+      "id": "0395",
+      "union_id": "1496163",
+      "village_code": "14961630161",
+      "name": "Mirkamari"
+    },
+    {
+      "id": "0396",
+      "union_id": "1496163",
+      "village_code": "14961630162",
+      "name": "Molla Para"
+    },
+    {
+      "id": "0397",
+      "union_id": "1496163",
+      "village_code": "14961630163",
+      "name": "Poddar Char"
+    },
+    {
+      "id": "0398",
+      "union_id": "1496163",
+      "village_code": "14961630164",
+      "name": "Purba Kalar Char"
+    },
+    {
+      "id": "0399",
+      "union_id": "1496182",
+      "village_code": "14961820165",
+      "name": "Barabari 9"
+    },
+    {
+      "id": "0400",
+      "union_id": "1496182",
+      "village_code": "14961820166",
+      "name": "Bir Damalgram"
+    },
+    {
+      "id": "0401",
+      "union_id": "1496182",
+      "village_code": "14961820167",
+      "name": "Char Damalgram"
+    },
+    {
+      "id": "0402",
+      "union_id": "1496182",
+      "village_code": "14961820168",
+      "name": "Damalgram"
+    },
+    {
+      "id": "0403",
+      "union_id": "1496182",
+      "village_code": "14961820169",
+      "name": "Gatir Khamar"
+    },
+    {
+      "id": "0404",
+      "union_id": "1496182",
+      "village_code": "14961820170",
+      "name": "Kamlar Kuti"
+    },
+    {
+      "id": "0405",
+      "union_id": "1496182",
+      "village_code": "14961820171",
+      "name": "Rangaliar Bos"
+    },
+    {
+      "id": "0406",
+      "union_id": "1496182",
+      "village_code": "14961820172",
+      "name": "Ratanpur"
+    },
+    {
+      "id": "0407",
+      "union_id": "1497710",
+      "village_code": "14977100221",
+      "name": "Bara Chatura"
+    },
+    {
+      "id": "0408",
+      "union_id": "1497710",
+      "village_code": "14977100222",
+      "name": "Bir Taiyab Khan"
+    },
+    {
+      "id": "0409",
+      "union_id": "1497710",
+      "village_code": "14977100223",
+      "name": "Manabari"
+    },
+    {
+      "id": "0410",
+      "union_id": "1497710",
+      "village_code": "14977100224",
+      "name": "Mandir"
+    },
+    {
+      "id": "0411",
+      "union_id": "1497710",
+      "village_code": "14977100225",
+      "name": "Paramaula"
+    },
+    {
+      "id": "0412",
+      "union_id": "1497710",
+      "village_code": "14977100226",
+      "name": "Paschim Bidyananda"
+    },
+    {
+      "id": "0413",
+      "union_id": "1497710",
+      "village_code": "14977100227",
+      "name": "Purba Bidyananda"
+    },
+    {
+      "id": "0414",
+      "union_id": "1497710",
+      "village_code": "14977100228",
+      "name": "Ramhari"
+    },
+    {
+      "id": "0415",
+      "union_id": "1497710",
+      "village_code": "14977100229",
+      "name": "Rati"
+    },
+    {
+      "id": "0416",
+      "union_id": "1497710",
+      "village_code": "14977100230",
+      "name": "Solagari"
+    },
+    {
+      "id": "0417",
+      "union_id": "1497731",
+      "village_code": "14977310231",
+      "name": "Chaturbhuj"
+    },
+    {
+      "id": "0418",
+      "union_id": "1497731",
+      "village_code": "14977310232",
+      "name": "Chhinaihat"
+    },
+    {
+      "id": "0419",
+      "union_id": "1497731",
+      "village_code": "14977310233",
+      "name": "Joykumar"
+    },
+    {
+      "id": "0420",
+      "union_id": "1497731",
+      "village_code": "14977310234",
+      "name": "Kalua"
+    },
+    {
+      "id": "0421",
+      "union_id": "1497731",
+      "village_code": "14977310235",
+      "name": "King Chhinai"
+    },
+    {
+      "id": "0422",
+      "union_id": "1497731",
+      "village_code": "14977310236",
+      "name": "Mahidhar Khandakshetra"
+    },
+    {
+      "id": "0423",
+      "union_id": "1497731",
+      "village_code": "14977310237",
+      "name": "Mekhali"
+    },
+    {
+      "id": "0424",
+      "union_id": "1497731",
+      "village_code": "14977310238",
+      "name": "Mirerbari"
+    },
+    {
+      "id": "0425",
+      "union_id": "1497731",
+      "village_code": "14977310239",
+      "name": "Purba Debuttar"
+    },
+    {
+      "id": "0426",
+      "union_id": "1497731",
+      "village_code": "14977310240",
+      "name": "Ramkarji"
+    },
+    {
+      "id": "0427",
+      "union_id": "1497731",
+      "village_code": "14977310241",
+      "name": "Ramratan"
+    },
+    {
+      "id": "0428",
+      "union_id": "1497742",
+      "village_code": "14977420242",
+      "name": "Bagachara"
+    },
+    {
+      "id": "0429",
+      "union_id": "1497742",
+      "village_code": "14977420243",
+      "name": "Bagher Bazar"
+    },
+    {
+      "id": "0430",
+      "union_id": "1497742",
+      "village_code": "14977420244",
+      "name": "Bara Dargah"
+    },
+    {
+      "id": "0431",
+      "union_id": "1497742",
+      "village_code": "14977420245",
+      "name": "Bhimsarma"
+    },
+    {
+      "id": "0432",
+      "union_id": "1497742",
+      "village_code": "14977420246",
+      "name": "Bogura Para"
+    },
+    {
+      "id": "0433",
+      "union_id": "1497742",
+      "village_code": "14977420247",
+      "name": "Chokider Para"
+    },
+    {
+      "id": "0434",
+      "union_id": "1497742",
+      "village_code": "14977420248",
+      "name": "Gobdha"
+    },
+    {
+      "id": "0435",
+      "union_id": "1497742",
+      "village_code": "14977420249",
+      "name": "Guchha Gram"
+    },
+    {
+      "id": "0436",
+      "union_id": "1497742",
+      "village_code": "14977420250",
+      "name": "Jamaler School Par"
+    },
+    {
+      "id": "0437",
+      "union_id": "1497742",
+      "village_code": "14977420251",
+      "name": "Jogi Para"
+    },
+    {
+      "id": "0438",
+      "union_id": "1497742",
+      "village_code": "14977420252",
+      "name": "Kurar Par"
+    },
+    {
+      "id": "0439",
+      "union_id": "1497742",
+      "village_code": "14977420253",
+      "name": "Medni"
+    },
+    {
+      "id": "0440",
+      "union_id": "1497742",
+      "village_code": "14977420254",
+      "name": "Mistri Para"
+    },
+    {
+      "id": "0441",
+      "union_id": "1497742",
+      "village_code": "14977420255",
+      "name": "Munshi Para"
+    },
+    {
+      "id": "0442",
+      "union_id": "1497742",
+      "village_code": "14977420256",
+      "name": "Nakhendarpar"
+    },
+    {
+      "id": "0443",
+      "union_id": "1497742",
+      "village_code": "14977420257",
+      "name": "Paglar Dargha"
+    },
+    {
+      "id": "0444",
+      "union_id": "1497742",
+      "village_code": "14977420258",
+      "name": "Purba Sultan"
+    },
+    {
+      "id": "0445",
+      "union_id": "1881113",
+      "village_code": "18811130259",
+      "name": "Baradhul"
+    },
+    {
+      "id": "0446",
+      "union_id": "1881113",
+      "village_code": "18811130260",
+      "name": "Bhanga Bari"
+    },
+    {
+      "id": "0447",
+      "union_id": "1881113",
+      "village_code": "18811130261",
+      "name": "Bill Mahisha"
+    },
+    {
+      "id": "0448",
+      "union_id": "1881113",
+      "village_code": "18811130262",
+      "name": "Binna Bari"
+    },
+    {
+      "id": "0449",
+      "union_id": "1881113",
+      "village_code": "18811130263",
+      "name": "Calar Char"
+    },
+    {
+      "id": "0450",
+      "union_id": "1881113",
+      "village_code": "18811130264",
+      "name": "Char Bell"
+    },
+    {
+      "id": "0451",
+      "union_id": "1881113",
+      "village_code": "18811130265",
+      "name": "Gachh Chapri"
+    },
+    {
+      "id": "0452",
+      "union_id": "1881113",
+      "village_code": "18811130266",
+      "name": "Khidra Chapri"
+    },
+    {
+      "id": "0453",
+      "union_id": "1881113",
+      "village_code": "18811130267",
+      "name": "Maher Nagor"
+    },
+    {
+      "id": "0454",
+      "union_id": "1881113",
+      "village_code": "18811130268",
+      "name": "Tara Baria"
+    },
+    {
+      "id": "0455",
+      "union_id": "1881127",
+      "village_code": "18811270269",
+      "name": "Belkuchi Paschim"
+    },
+    {
+      "id": "0456",
+      "union_id": "1881127",
+      "village_code": "18811270270",
+      "name": "Belkuchi Purba"
+    },
+    {
+      "id": "0457",
+      "union_id": "1881127",
+      "village_code": "18811270271",
+      "name": "Chhota Bera Kharua"
+    },
+    {
+      "id": "0458",
+      "union_id": "1881127",
+      "village_code": "18811270272",
+      "name": "Dalua Madhya"
+    },
+    {
+      "id": "0459",
+      "union_id": "1881127",
+      "village_code": "18811270273",
+      "name": "Delua Uttar"
+    },
+    {
+      "id": "0460",
+      "union_id": "1881127",
+      "village_code": "18811270274",
+      "name": "Hat Bayra"
+    },
+    {
+      "id": "0461",
+      "union_id": "1881127",
+      "village_code": "18811270275",
+      "name": "Mantala"
+    },
+    {
+      "id": "0462",
+      "union_id": "1881127",
+      "village_code": "18811270276",
+      "name": "Mulkandi Dash Khada"
+    },
+    {
+      "id": "0463",
+      "union_id": "1881127",
+      "village_code": "18811270277",
+      "name": "Rani Pura"
+    },
+    {
+      "id": "0464",
+      "union_id": "1881154",
+      "village_code": "18811540278",
+      "name": "Barupur"
+    },
+    {
+      "id": "0465",
+      "union_id": "1881154",
+      "village_code": "18811540279",
+      "name": "Bhangabari"
+    },
+    {
+      "id": "0466",
+      "union_id": "1881154",
+      "village_code": "18811540280",
+      "name": "Chardhul"
+    },
+    {
+      "id": "0467",
+      "union_id": "1881154",
+      "village_code": "18811540281",
+      "name": "Goprikhi"
+    },
+    {
+      "id": "0468",
+      "union_id": "1881154",
+      "village_code": "18811540282",
+      "name": "Khandha Para"
+    },
+    {
+      "id": "0469",
+      "union_id": "1881154",
+      "village_code": "18811540283",
+      "name": "Meghulla"
+    },
+    {
+      "id": "0470",
+      "union_id": "1881154",
+      "village_code": "18811540284",
+      "name": "Tayshia"
+    },
+    {
+      "id": "0471",
+      "union_id": "1881181",
+      "village_code": "18811810285",
+      "name": "Aguria"
+    },
+    {
+      "id": "0472",
+      "union_id": "1881181",
+      "village_code": "18811810286",
+      "name": "Bagbhaora"
+    },
+    {
+      "id": "0473",
+      "union_id": "1881181",
+      "village_code": "18811810287",
+      "name": "Boil Gachhi"
+    },
+    {
+      "id": "0474",
+      "union_id": "1881181",
+      "village_code": "18811810288",
+      "name": "Chak Makimpur"
+    },
+    {
+      "id": "0475",
+      "union_id": "1881181",
+      "village_code": "18811810289",
+      "name": "Chandra Para"
+    },
+    {
+      "id": "0476",
+      "union_id": "1881181",
+      "village_code": "18811810290",
+      "name": "Char Konabari"
+    },
+    {
+      "id": "0477",
+      "union_id": "1881181",
+      "village_code": "18811810291",
+      "name": "Datta Bari"
+    },
+    {
+      "id": "0478",
+      "union_id": "1881181",
+      "village_code": "18811810292",
+      "name": "Harinathpur"
+    },
+    {
+      "id": "0479",
+      "union_id": "1881181",
+      "village_code": "18811810293",
+      "name": "Purba Randhunibari"
+    },
+    {
+      "id": "0480",
+      "union_id": "1881181",
+      "village_code": "18811810294",
+      "name": "Thakur Para"
+    },
+    {
+      "id": "0481",
+      "union_id": "1882721",
+      "village_code": "18827210295",
+      "name": "Binanai"
+    },
+    {
+      "id": "0482",
+      "union_id": "1882721",
+      "village_code": "18827210296",
+      "name": "Ghoshuria"
+    },
+    {
+      "id": "0483",
+      "union_id": "1882721",
+      "village_code": "18827210297",
+      "name": "Hatail Dakshin"
+    },
+    {
+      "id": "0484",
+      "union_id": "1882721",
+      "village_code": "18827210298",
+      "name": "Hatail Uttar"
+    },
+    {
+      "id": "0485",
+      "union_id": "1882723",
+      "village_code": "18827230299",
+      "name": "Char Jajuria"
+    },
+    {
+      "id": "0486",
+      "union_id": "1882723",
+      "village_code": "18827230300",
+      "name": "Dakshin Barangail"
+    },
+    {
+      "id": "0487",
+      "union_id": "1882723",
+      "village_code": "18827230301",
+      "name": "Fulhara"
+    },
+    {
+      "id": "0488",
+      "union_id": "1882723",
+      "village_code": "18827230302",
+      "name": "Katar Bari"
+    },
+    {
+      "id": "0489",
+      "union_id": "1882723",
+      "village_code": "18827230303",
+      "name": "Uttar Barangail"
+    },
+    {
+      "id": "0490",
+      "union_id": "1882727",
+      "village_code": "18827270304",
+      "name": "Dakshin Khas Kaulia"
+    },
+    {
+      "id": "0491",
+      "union_id": "1882727",
+      "village_code": "18827270305",
+      "name": "Khas Kaulia Madhya Jotpara"
+    },
+    {
+      "id": "0492",
+      "union_id": "1882727",
+      "village_code": "18827270306",
+      "name": "Khas Kaulia Purba"
+    },
+    {
+      "id": "0493",
+      "union_id": "1882727",
+      "village_code": "18827270307",
+      "name": "Khurki"
+    },
+    {
+      "id": "0494",
+      "union_id": "1882731",
+      "village_code": "18827310308",
+      "name": "Ewazi Kathalia"
+    },
+    {
+      "id": "0495",
+      "union_id": "1882731",
+      "village_code": "18827310309",
+      "name": "Ewazi Masuka"
+    },
+    {
+      "id": "0496",
+      "union_id": "1882731",
+      "village_code": "18827310310",
+      "name": "Hijalia"
+    },
+    {
+      "id": "0497",
+      "union_id": "1882731",
+      "village_code": "18827310311",
+      "name": "Uttar Khas Pukuria"
+    },
+    {
+      "id": "0498",
+      "union_id": "1882737",
+      "village_code": "18827370312",
+      "name": "Agsimulia Soil"
+    },
+    {
+      "id": "0499",
+      "union_id": "1882737",
+      "village_code": "18827370313",
+      "name": "Arkandi"
+    },
+    {
+      "id": "0500",
+      "union_id": "1882737",
+      "village_code": "18827370314",
+      "name": "Atia Dhoplia"
+    },
+    {
+      "id": "0501",
+      "union_id": "1882737",
+      "village_code": "18827370315",
+      "name": "Datta Kandi"
+    },
+    {
+      "id": "0502",
+      "union_id": "1882737",
+      "village_code": "18827370316",
+      "name": "Dhupulia"
+    },
+    {
+      "id": "0503",
+      "union_id": "1882737",
+      "village_code": "18827370317",
+      "name": "Hapania"
+    },
+    {
+      "id": "0504",
+      "union_id": "1882737",
+      "village_code": "18827370318",
+      "name": "Madhya Simulia"
+    },
+    {
+      "id": "0505",
+      "union_id": "1882737",
+      "village_code": "18827370319",
+      "name": "Pakutia"
+    },
+    {
+      "id": "0506",
+      "union_id": "1882737",
+      "village_code": "18827370320",
+      "name": "Poyla"
+    },
+    {
+      "id": "0507",
+      "union_id": "1882771",
+      "village_code": "18827710321",
+      "name": "Baira Bari"
+    },
+    {
+      "id": "0508",
+      "union_id": "1882771",
+      "village_code": "18827710322",
+      "name": "Bara Chauhali"
+    },
+    {
+      "id": "0509",
+      "union_id": "1882771",
+      "village_code": "18827710323",
+      "name": "Chhota Chauhali"
+    },
+    {
+      "id": "0510",
+      "union_id": "1882771",
+      "village_code": "18827710324",
+      "name": "Gosai Bari"
+    },
+    {
+      "id": "0511",
+      "union_id": "1882771",
+      "village_code": "18827710325",
+      "name": "Kura Gachha"
+    },
+    {
+      "id": "0512",
+      "union_id": "1882771",
+      "village_code": "18827710326",
+      "name": "Sthal Naohata"
+    },
+    {
+      "id": "0513",
+      "union_id": "1882771",
+      "village_code": "18827710327",
+      "name": "Uttar Naohata"
+    },
+    {
+      "id": "0514",
+      "union_id": "1882771",
+      "village_code": "18827710328",
+      "name": "Uttar Teghari"
+    },
+    {
+      "id": "0515",
+      "union_id": "1886714",
+      "village_code": "18867140329",
+      "name": "Bara Dugali"
+    },
+    {
+      "id": "0516",
+      "union_id": "1886714",
+      "village_code": "18867140330",
+      "name": "Bara Khola Paschim"
+    },
+    {
+      "id": "0517",
+      "union_id": "1886714",
+      "village_code": "18867140331",
+      "name": "Bara Khola Purba"
+    },
+    {
+      "id": "0518",
+      "union_id": "1886714",
+      "village_code": "18867140332",
+      "name": "Barnia"
+    },
+    {
+      "id": "0519",
+      "union_id": "1886714",
+      "village_code": "18867140333",
+      "name": "Chak Paikhanda"
+    },
+    {
+      "id": "0520",
+      "union_id": "1886714",
+      "village_code": "18867140334",
+      "name": "Char Barnia"
+    },
+    {
+      "id": "0521",
+      "union_id": "1886714",
+      "village_code": "18867140335",
+      "name": "Datta Dorta"
+    },
+    {
+      "id": "0522",
+      "union_id": "1886714",
+      "village_code": "18867140336",
+      "name": "Fokir Para"
+    },
+    {
+      "id": "0523",
+      "union_id": "1886714",
+      "village_code": "18867140337",
+      "name": "Gala"
+    },
+    {
+      "id": "0524",
+      "union_id": "1886714",
+      "village_code": "18867140338",
+      "name": "Gobinda Pur"
+    },
+    {
+      "id": "0525",
+      "union_id": "1886714",
+      "village_code": "18867140339",
+      "name": "Gopinathpur"
+    },
+    {
+      "id": "0526",
+      "union_id": "1886714",
+      "village_code": "18867140340",
+      "name": "Mirjapur"
+    },
+    {
+      "id": "0527",
+      "union_id": "1886714",
+      "village_code": "18867140341",
+      "name": "Par Dugalia"
+    },
+    {
+      "id": "0528",
+      "union_id": "1886729",
+      "village_code": "18867290342",
+      "name": "Baykhola"
+    },
+    {
+      "id": "0529",
+      "union_id": "1886729",
+      "village_code": "18867290343",
+      "name": "Chentar Char"
+    },
+    {
+      "id": "0530",
+      "union_id": "1886729",
+      "village_code": "18867290344",
+      "name": "Choubari"
+    },
+    {
+      "id": "0531",
+      "union_id": "1886729",
+      "village_code": "18867290345",
+      "name": "Dwadas Patti"
+    },
+    {
+      "id": "0532",
+      "union_id": "1886729",
+      "village_code": "18867290346",
+      "name": "Gab Para"
+    },
+    {
+      "id": "0533",
+      "union_id": "1886729",
+      "village_code": "18867290347",
+      "name": "Ghati Bari"
+    },
+    {
+      "id": "0534",
+      "union_id": "1886729",
+      "village_code": "18867290348",
+      "name": "Jalalpur"
+    },
+    {
+      "id": "0535",
+      "union_id": "1886729",
+      "village_code": "18867290349",
+      "name": "Pakur Tala"
+    },
+    {
+      "id": "0536",
+      "union_id": "1886729",
+      "village_code": "18867290350",
+      "name": "Para Mahonpur"
+    },
+    {
+      "id": "0537",
+      "union_id": "1886729",
+      "village_code": "18867290351",
+      "name": "Saidpur Purba Para"
+    },
+    {
+      "id": "0538",
+      "union_id": "1886729",
+      "village_code": "18867290352",
+      "name": "Soratoil Dakshin"
+    },
+    {
+      "id": "0539",
+      "union_id": "1886729",
+      "village_code": "18867290353",
+      "name": "Soratoil Madhya"
+    },
+    {
+      "id": "0540",
+      "union_id": "1886736",
+      "village_code": "18867360354",
+      "name": "Bhat Dighulia"
+    },
+    {
+      "id": "0541",
+      "union_id": "1886736",
+      "village_code": "18867360355",
+      "name": "Char Gudhai Bari"
+    },
+    {
+      "id": "0542",
+      "union_id": "1886736",
+      "village_code": "18867360356",
+      "name": "Char Kaijuri"
+    },
+    {
+      "id": "0543",
+      "union_id": "1886736",
+      "village_code": "18867360357",
+      "name": "Gopalpur"
+    },
+    {
+      "id": "0544",
+      "union_id": "1886736",
+      "village_code": "18867360358",
+      "name": "Gupia Khali"
+    },
+    {
+      "id": "0545",
+      "union_id": "1886736",
+      "village_code": "18867360359",
+      "name": "Hat Panchil"
+    },
+    {
+      "id": "0546",
+      "union_id": "1886736",
+      "village_code": "18867360360",
+      "name": "Lahinda Kandi"
+    },
+    {
+      "id": "0547",
+      "union_id": "1886736",
+      "village_code": "18867360361",
+      "name": "Purba Char Kaijuri"
+    },
+    {
+      "id": "0548",
+      "union_id": "1886736",
+      "village_code": "18867360362",
+      "name": "Thutia"
+    },
+    {
+      "id": "0549",
+      "union_id": "1886736",
+      "village_code": "18867360363",
+      "name": "Vatpara"
+    },
+    {
+      "id": "0550",
+      "union_id": "1886765",
+      "village_code": "18867650364",
+      "name": "Bashuria"
+    },
+    {
+      "id": "0551",
+      "union_id": "1886765",
+      "village_code": "18867650365",
+      "name": "Char Bachra"
+    },
+    {
+      "id": "0552",
+      "union_id": "1886765",
+      "village_code": "18867650366",
+      "name": "Char Kadai"
+    },
+    {
+      "id": "0553",
+      "union_id": "1886765",
+      "village_code": "18867650367",
+      "name": "Char Porjana"
+    },
+    {
+      "id": "0554",
+      "union_id": "1886765",
+      "village_code": "18867650368",
+      "name": "Fechua Mara"
+    },
+    {
+      "id": "0555",
+      "union_id": "1886765",
+      "village_code": "18867650369",
+      "name": "Harinath Pur"
+    },
+    {
+      "id": "0556",
+      "union_id": "1886765",
+      "village_code": "18867650370",
+      "name": "Jotpara"
+    },
+    {
+      "id": "0557",
+      "union_id": "1886765",
+      "village_code": "18867650371",
+      "name": "Kakuria"
+    },
+    {
+      "id": "0558",
+      "union_id": "1886765",
+      "village_code": "18867650372",
+      "name": "Kanda Bashuria"
+    },
+    {
+      "id": "0559",
+      "union_id": "1886765",
+      "village_code": "18867650373",
+      "name": "Khudra Putia"
+    },
+    {
+      "id": "0560",
+      "union_id": "1886765",
+      "village_code": "18867650374",
+      "name": "Uttar Jamirta"
+    },
+    {
+      "id": "0561",
+      "union_id": "1886765",
+      "village_code": "18867650375",
+      "name": "Vogirot Putia"
+    },
+    {
+      "id": "0562",
+      "union_id": "1886780",
+      "village_code": "18867800376",
+      "name": "Ahmmedpur"
+    },
+    {
+      "id": "0563",
+      "union_id": "1886780",
+      "village_code": "18867800377",
+      "name": "Andermanik"
+    },
+    {
+      "id": "0564",
+      "union_id": "1886780",
+      "village_code": "18867800378",
+      "name": "Bagh Dhunail"
+    },
+    {
+      "id": "0565",
+      "union_id": "1886780",
+      "village_code": "18867800379",
+      "name": "Bara Dhunail"
+    },
+    {
+      "id": "0566",
+      "union_id": "1886780",
+      "village_code": "18867800380",
+      "name": "Bhul Bakutia"
+    },
+    {
+      "id": "0567",
+      "union_id": "1886780",
+      "village_code": "18867800381",
+      "name": "Char Dhunail"
+    },
+    {
+      "id": "0568",
+      "union_id": "1886780",
+      "village_code": "18867800382",
+      "name": "Kar Shalika"
+    },
+    {
+      "id": "0569",
+      "union_id": "1886780",
+      "village_code": "18867800383",
+      "name": "Khamar Shanila"
+    },
+    {
+      "id": "0570",
+      "union_id": "1886780",
+      "village_code": "18867800384",
+      "name": "Kolir Char"
+    },
+    {
+      "id": "0571",
+      "union_id": "1886780",
+      "village_code": "18867800385",
+      "name": "Moakola"
+    },
+    {
+      "id": "0572",
+      "union_id": "1886780",
+      "village_code": "18867800386",
+      "name": "Ram Kharua"
+    },
+    {
+      "id": "0573",
+      "union_id": "1886780",
+      "village_code": "18867800387",
+      "name": "Rupabati"
+    },
+    {
+      "id": "0574",
+      "union_id": "1886780",
+      "village_code": "18867800388",
+      "name": "Sadamara"
+    },
+    {
+      "id": "0575",
+      "union_id": "1886780",
+      "village_code": "18867800389",
+      "name": "Santosha"
+    },
+    {
+      "id": "0576",
+      "union_id": "1886780",
+      "village_code": "18867800390",
+      "name": "Selachapri"
+    },
+    {
+      "id": "0577",
+      "union_id": "1886794",
+      "village_code": "18867940391",
+      "name": "Bantiar"
+    },
+    {
+      "id": "0578",
+      "union_id": "1886794",
+      "village_code": "18867940392",
+      "name": "Barapakhia"
+    },
+    {
+      "id": "0579",
+      "union_id": "1886794",
+      "village_code": "18867940393",
+      "name": "Chhota Chantara"
+    },
+    {
+      "id": "0580",
+      "union_id": "1886794",
+      "village_code": "18867940394",
+      "name": "Dippur"
+    },
+    {
+      "id": "0581",
+      "union_id": "1886794",
+      "village_code": "18867940395",
+      "name": "Kurshi"
+    },
+    {
+      "id": "0582",
+      "union_id": "1886794",
+      "village_code": "18867940396",
+      "name": "Makra"
+    },
+    {
+      "id": "0583",
+      "union_id": "1886794",
+      "village_code": "18867940397",
+      "name": "Sonatani"
+    },
+    {
+      "id": "0584",
+      "union_id": "1886794",
+      "village_code": "18867940398",
+      "name": "Sripur"
+    },
+    {
+      "id": "0585",
+      "union_id": "2360227",
+      "village_code": "23602270585",
+      "name": "Badalpur"
+    },
+    {
+      "id": "0586",
+      "union_id": "2360227",
+      "village_code": "23602270586",
+      "name": "Boychakhali"
+    },
+    {
+      "id": "0587",
+      "union_id": "2360227",
+      "village_code": "23602270587",
+      "name": "Jhilua"
+    },
+    {
+      "id": "0588",
+      "union_id": "2360227",
+      "village_code": "23602270588",
+      "name": "Mahmudpur"
+    },
+    {
+      "id": "0589",
+      "union_id": "2360227",
+      "village_code": "23602270589",
+      "name": "Paharpur"
+    },
+    {
+      "id": "0590",
+      "union_id": "2360227",
+      "village_code": "23602270590",
+      "name": "Piatur Kandi (Chatarkandi)"
+    },
+    {
+      "id": "0591",
+      "union_id": "2360227",
+      "village_code": "23602270591",
+      "name": "Piatur Kandi (Purba)"
+    },
+    {
+      "id": "0592",
+      "union_id": "2360227",
+      "village_code": "23602270592",
+      "name": "Pirojpur"
+    },
+    {
+      "id": "0593",
+      "union_id": "2360254",
+      "village_code": "23602540593",
+      "name": "Dakkin Attpara"
+    },
+    {
+      "id": "0594",
+      "union_id": "2360254",
+      "village_code": "23602540594",
+      "name": "Madab Pasha"
+    },
+    {
+      "id": "0595",
+      "union_id": "2360254",
+      "village_code": "23602540595",
+      "name": "Noulagor"
+    },
+    {
+      "id": "0596",
+      "union_id": "2360254",
+      "village_code": "23602540596",
+      "name": "Uttar Attpara"
+    },
+    {
+      "id": "0597",
+      "union_id": "2360281",
+      "village_code": "23602810597",
+      "name": "Noahati"
+    },
+    {
+      "id": "0598",
+      "union_id": "2360281",
+      "village_code": "23602810598",
+      "name": "Paschim Bag Kadomtara"
+    },
+    {
+      "id": "0599",
+      "union_id": "2360281",
+      "village_code": "23602810599",
+      "name": "Podmatara"
+    },
+    {
+      "id": "0600",
+      "union_id": "2360281",
+      "village_code": "23602810600",
+      "name": "Sikendarpur Shibpasha"
+    },
+    {
+      "id": "0601",
+      "union_id": "2361111",
+      "village_code": "23611110642",
+      "name": "Badauri"
+    },
+    {
+      "id": "0602",
+      "union_id": "2361111",
+      "village_code": "23611110643",
+      "name": "Bag Moholla"
+    },
+    {
+      "id": "0603",
+      "union_id": "2361111",
+      "village_code": "23611110644",
+      "name": "Dottopara"
+    },
+    {
+      "id": "0604",
+      "union_id": "2361111",
+      "village_code": "23611110645",
+      "name": "Jamalpur"
+    },
+    {
+      "id": "0605",
+      "union_id": "2361111",
+      "village_code": "23611110646",
+      "name": "Nondipara"
+    },
+    {
+      "id": "0606",
+      "union_id": "2361111",
+      "village_code": "23611110647",
+      "name": "Topkhana Uttar"
+    },
+    {
+      "id": "0607",
+      "union_id": "2361112",
+      "village_code": "23611120637",
+      "name": "Adarshagram"
+    },
+    {
+      "id": "0608",
+      "union_id": "2361112",
+      "village_code": "23611120638",
+      "name": "Amirkhani"
+    },
+    {
+      "id": "0609",
+      "union_id": "2361112",
+      "village_code": "23611120639",
+      "name": "Ghagra Para"
+    },
+    {
+      "id": "0610",
+      "union_id": "2361112",
+      "village_code": "23611120640",
+      "name": "Ruprajkhar Para"
+    },
+    {
+      "id": "0611",
+      "union_id": "2361112",
+      "village_code": "23611120641",
+      "name": "Viddyabhushan Para"
+    },
+    {
+      "id": "0612",
+      "union_id": "2361118",
+      "village_code": "23611180605",
+      "name": "Dhali Moholla"
+    },
+    {
+      "id": "0613",
+      "union_id": "2361118",
+      "village_code": "23611180606",
+      "name": "Itankhani"
+    },
+    {
+      "id": "0614",
+      "union_id": "2361118",
+      "village_code": "23611180607",
+      "name": "Kalidesh Tak"
+    },
+    {
+      "id": "0615",
+      "union_id": "2361118",
+      "village_code": "23611180608",
+      "name": "Sagor Dighir Purbo Para"
+    },
+    {
+      "id": "0616",
+      "union_id": "2361118",
+      "village_code": "23611180609",
+      "name": "Tatari Moholla"
+    },
+    {
+      "id": "0617",
+      "union_id": "2361125",
+      "village_code": "23611250601",
+      "name": "Buruj para"
+    },
+    {
+      "id": "0618",
+      "union_id": "2361125",
+      "village_code": "23611250602",
+      "name": "Pathantula"
+    },
+    {
+      "id": "0619",
+      "union_id": "2361125",
+      "village_code": "23611250603",
+      "name": "Shareef Khani"
+    },
+    {
+      "id": "0620",
+      "union_id": "2361125",
+      "village_code": "23611250604",
+      "name": "Tarasai"
+    },
+    {
+      "id": "0621",
+      "union_id": "2361156",
+      "village_code": "23611560610",
+      "name": "Hiala"
+    },
+    {
+      "id": "0622",
+      "union_id": "2361156",
+      "village_code": "23611560611",
+      "name": "Mokrompur"
+    },
+    {
+      "id": "0623",
+      "union_id": "2361156",
+      "village_code": "23611560612",
+      "name": "Ratonpur"
+    },
+    {
+      "id": "0624",
+      "union_id": "2361156",
+      "village_code": "23611560613",
+      "name": "Shahapur"
+    },
+    {
+      "id": "0625",
+      "union_id": "2361156",
+      "village_code": "23611560614",
+      "name": "Sultanpur"
+    },
+    {
+      "id": "0626",
+      "union_id": "2361163",
+      "village_code": "23611630615",
+      "name": "Agoya"
+    },
+    {
+      "id": "0627",
+      "union_id": "2361163",
+      "village_code": "23611630616",
+      "name": "Dulalpur"
+    },
+    {
+      "id": "0628",
+      "union_id": "2361163",
+      "village_code": "23611630617",
+      "name": "Jalilpur"
+    },
+    {
+      "id": "0629",
+      "union_id": "2361163",
+      "village_code": "23611630618",
+      "name": "Keorakandi"
+    },
+    {
+      "id": "0630",
+      "union_id": "2361163",
+      "village_code": "23611630619",
+      "name": "Rajanagor"
+    },
+    {
+      "id": "0631",
+      "union_id": "2361163",
+      "village_code": "23611630620",
+      "name": "Sirirampur"
+    },
+    {
+      "id": "0632",
+      "union_id": "2361169",
+      "village_code": "23611690621",
+      "name": "Gangpur Bandh"
+    },
+    {
+      "id": "0633",
+      "union_id": "2361169",
+      "village_code": "23611690622",
+      "name": "Hossainpur"
+    },
+    {
+      "id": "0634",
+      "union_id": "2361169",
+      "village_code": "23611690623",
+      "name": "Islampur"
+    },
+    {
+      "id": "0635",
+      "union_id": "2361169",
+      "village_code": "23611690624",
+      "name": "Maikna"
+    },
+    {
+      "id": "0636",
+      "union_id": "2361169",
+      "village_code": "23611690625",
+      "name": "Matikata"
+    },
+    {
+      "id": "0637",
+      "union_id": "2361169",
+      "village_code": "23611690626",
+      "name": "Muradpur"
+    },
+    {
+      "id": "0638",
+      "union_id": "2361169",
+      "village_code": "23611690627",
+      "name": "Paharpur"
+    },
+    {
+      "id": "0639",
+      "union_id": "2361175",
+      "village_code": "23611750628",
+      "name": "Basantapur"
+    },
+    {
+      "id": "0640",
+      "union_id": "2361175",
+      "village_code": "23611750629",
+      "name": "Bijoypur"
+    },
+    {
+      "id": "0641",
+      "union_id": "2361175",
+      "village_code": "23611750630",
+      "name": "Goalhati"
+    },
+    {
+      "id": "0642",
+      "union_id": "2361175",
+      "village_code": "23611750631",
+      "name": "Nilpur"
+    },
+    {
+      "id": "0643",
+      "union_id": "2361175",
+      "village_code": "23611750632",
+      "name": "Noyahati"
+    },
+    {
+      "id": "0644",
+      "union_id": "2361175",
+      "village_code": "23611750633",
+      "name": "Paschimhati"
+    },
+    {
+      "id": "0645",
+      "union_id": "2361188",
+      "village_code": "23611880634",
+      "name": "Noyabad"
+    },
+    {
+      "id": "0646",
+      "union_id": "2361188",
+      "village_code": "23611880635",
+      "name": "Shutamukha"
+    },
+    {
+      "id": "0647",
+      "union_id": "2361188",
+      "village_code": "23611880636",
+      "name": "Sujatpur"
+    },
+    {
+      "id": "0648",
+      "union_id": "2480211",
+      "village_code": "24802110719",
+      "name": "Adampur"
+    },
+    {
+      "id": "0649",
+      "union_id": "2480211",
+      "village_code": "24802110720",
+      "name": "Batora"
+    },
+    {
+      "id": "0650",
+      "union_id": "2480211",
+      "village_code": "24802110721",
+      "name": "Chowdanta"
+    },
+    {
+      "id": "0651",
+      "union_id": "2480211",
+      "village_code": "24802110722",
+      "name": "Islampur"
+    },
+    {
+      "id": "0652",
+      "union_id": "2480211",
+      "village_code": "24802110723",
+      "name": "Nalita Kandi"
+    },
+    {
+      "id": "0653",
+      "union_id": "2480211",
+      "village_code": "24802110724",
+      "name": "Nurpur Jamalpur"
+    },
+    {
+      "id": "0654",
+      "union_id": "2480211",
+      "village_code": "24802110725",
+      "name": "Ulo Hati"
+    },
+    {
+      "id": "0655",
+      "union_id": "2480223",
+      "village_code": "24802230726",
+      "name": "Baroir Char"
+    },
+    {
+      "id": "0656",
+      "union_id": "2480223",
+      "village_code": "24802230727",
+      "name": "Katagor Hati"
+    },
+    {
+      "id": "0657",
+      "union_id": "2480223",
+      "village_code": "24802230728",
+      "name": "Mazerhati"
+    },
+    {
+      "id": "0658",
+      "union_id": "2480223",
+      "village_code": "24802230729",
+      "name": "Rangpur Hati"
+    },
+    {
+      "id": "0659",
+      "union_id": "2480223",
+      "village_code": "24802230730",
+      "name": "Rishipara"
+    },
+    {
+      "id": "0660",
+      "union_id": "2480223",
+      "village_code": "24802230731",
+      "name": "Sona Dighir Purbapar"
+    },
+    {
+      "id": "0661",
+      "union_id": "2480259",
+      "village_code": "24802590732",
+      "name": "Chandipur"
+    },
+    {
+      "id": "0662",
+      "union_id": "2480259",
+      "village_code": "24802590733",
+      "name": "Dalarkandi"
+    },
+    {
+      "id": "0663",
+      "union_id": "2480259",
+      "village_code": "24802590734",
+      "name": "Halalpur"
+    },
+    {
+      "id": "0664",
+      "union_id": "2480259",
+      "village_code": "24802590735",
+      "name": "Kakori"
+    },
+    {
+      "id": "0665",
+      "union_id": "2480259",
+      "village_code": "24802590736",
+      "name": "Sharifpur Dakkhin"
+    },
+    {
+      "id": "0666",
+      "union_id": "2480259",
+      "village_code": "24802590737",
+      "name": "Sharifpur Uttar"
+    },
+    {
+      "id": "0667",
+      "union_id": "2480259",
+      "village_code": "24802590738",
+      "name": "Sibla Charia"
+    },
+    {
+      "id": "0668",
+      "union_id": "2480271",
+      "village_code": "24802710739",
+      "name": "Islampur"
+    },
+    {
+      "id": "0669",
+      "union_id": "2480271",
+      "village_code": "24802710740",
+      "name": "Karora Hati"
+    },
+    {
+      "id": "0670",
+      "union_id": "2480271",
+      "village_code": "24802710741",
+      "name": "Purba Vathshala"
+    },
+    {
+      "id": "0671",
+      "union_id": "2480271",
+      "village_code": "24802710742",
+      "name": "Uttar Vathshala"
+    },
+    {
+      "id": "0672",
+      "union_id": "2480271",
+      "village_code": "24802710743",
+      "name": "Vathshala"
+    },
+    {
+      "id": "0673",
+      "union_id": "2480283",
+      "village_code": "24802830744",
+      "name": "Baligaon"
+    },
+    {
+      "id": "0674",
+      "union_id": "2480283",
+      "village_code": "24802830745",
+      "name": "Dakshin Abdullahpur"
+    },
+    {
+      "id": "0675",
+      "union_id": "2480283",
+      "village_code": "24802830746",
+      "name": "Giashpur"
+    },
+    {
+      "id": "0676",
+      "union_id": "2480283",
+      "village_code": "24802830747",
+      "name": "Kolimpur"
+    },
+    {
+      "id": "0677",
+      "union_id": "2480283",
+      "village_code": "24802830748",
+      "name": "Shomar Char"
+    },
+    {
+      "id": "0678",
+      "union_id": "2483317",
+      "village_code": "24833170749",
+      "name": "Badla"
+    },
+    {
+      "id": "0679",
+      "union_id": "2483317",
+      "village_code": "24833170750",
+      "name": "Shantipur"
+    },
+    {
+      "id": "0680",
+      "union_id": "2483317",
+      "village_code": "24833170751",
+      "name": "Simla"
+    },
+    {
+      "id": "0681",
+      "union_id": "2483317",
+      "village_code": "24833170752",
+      "name": "Thaneswar"
+    },
+    {
+      "id": "0682",
+      "union_id": "2483343",
+      "village_code": "24833430753",
+      "name": "Bakshai"
+    },
+    {
+      "id": "0683",
+      "union_id": "2483343",
+      "village_code": "24833430754",
+      "name": "Chachua"
+    },
+    {
+      "id": "0684",
+      "union_id": "2483343",
+      "village_code": "24833430755",
+      "name": "Charpara"
+    },
+    {
+      "id": "0685",
+      "union_id": "2483343",
+      "village_code": "24833430756",
+      "name": "Dhanpur Ghoshpara"
+    },
+    {
+      "id": "0686",
+      "union_id": "2483343",
+      "village_code": "24833430757",
+      "name": "Doilong"
+    },
+    {
+      "id": "0687",
+      "union_id": "2483343",
+      "village_code": "24833430758",
+      "name": "Koroncha"
+    },
+    {
+      "id": "0688",
+      "union_id": "2483343",
+      "village_code": "24833430759",
+      "name": "Sohila"
+    },
+    {
+      "id": "0689",
+      "union_id": "2483343",
+      "village_code": "24833430760",
+      "name": "Suvodrapur"
+    },
+    {
+      "id": "0690",
+      "union_id": "2483347",
+      "village_code": "24833470761",
+      "name": "Abason"
+    },
+    {
+      "id": "0691",
+      "union_id": "2483347",
+      "village_code": "24833470762",
+      "name": "Borohat Kobila"
+    },
+    {
+      "id": "0692",
+      "union_id": "2483347",
+      "village_code": "24833470763",
+      "name": "Chilni"
+    },
+    {
+      "id": "0693",
+      "union_id": "2483347",
+      "village_code": "24833470764",
+      "name": "Kaktengur"
+    },
+    {
+      "id": "0694",
+      "union_id": "2483347",
+      "village_code": "24833470765",
+      "name": "Nayangar"
+    },
+    {
+      "id": "0695",
+      "union_id": "2483347",
+      "village_code": "24833470766",
+      "name": "Nurpur"
+    },
+    {
+      "id": "0696",
+      "union_id": "2483347",
+      "village_code": "24833470767",
+      "name": "Shalpohat Kobila"
+    },
+    {
+      "id": "0697",
+      "union_id": "2483360",
+      "village_code": "24833600768",
+      "name": "Barabaria"
+    },
+    {
+      "id": "0698",
+      "union_id": "2483360",
+      "village_code": "24833600769",
+      "name": "Birkul"
+    },
+    {
+      "id": "0699",
+      "union_id": "2483360",
+      "village_code": "24833600770",
+      "name": "Boyra"
+    },
+    {
+      "id": "0700",
+      "union_id": "2483360",
+      "village_code": "24833600771",
+      "name": "Koronchi"
+    },
+    {
+      "id": "0701",
+      "union_id": "2483360",
+      "village_code": "24833600772",
+      "name": "Mudirgaon"
+    },
+    {
+      "id": "0702",
+      "union_id": "2483360",
+      "village_code": "24833600773",
+      "name": "Pagolshi"
+    },
+    {
+      "id": "0703",
+      "union_id": "2483386",
+      "village_code": "24833860774",
+      "name": "Alompasha"
+    },
+    {
+      "id": "0704",
+      "union_id": "2483386",
+      "village_code": "24833860775",
+      "name": "Islampur"
+    },
+    {
+      "id": "0705",
+      "union_id": "2483386",
+      "village_code": "24833860776",
+      "name": "Kalipur"
+    },
+    {
+      "id": "0706",
+      "union_id": "2483386",
+      "village_code": "24833860777",
+      "name": "Katiarkanda"
+    },
+    {
+      "id": "0707",
+      "union_id": "2483386",
+      "village_code": "24833860778",
+      "name": "Modhupur"
+    },
+    {
+      "id": "0708",
+      "union_id": "2483386",
+      "village_code": "24833860779",
+      "name": "Patabuka"
+    },
+    {
+      "id": "0709",
+      "union_id": "2483386",
+      "village_code": "24833860780",
+      "name": "Ramkrisnopur"
+    },
+    {
+      "id": "0710",
+      "union_id": "2483386",
+      "village_code": "24833860781",
+      "name": "Ujan Rajibpur"
+    },
+    {
+      "id": "0711",
+      "union_id": "2483386",
+      "village_code": "24833860782",
+      "name": "Vati Rajibpur"
+    },
+    {
+      "id": "0712",
+      "union_id": "2485911",
+      "village_code": "24859110783",
+      "name": "Baher Char"
+    },
+    {
+      "id": "0713",
+      "union_id": "2485911",
+      "village_code": "24859110784",
+      "name": "Bairati Dakkin Para"
+    },
+    {
+      "id": "0714",
+      "union_id": "2485911",
+      "village_code": "24859110785",
+      "name": "Bairati Madha Para"
+    },
+    {
+      "id": "0715",
+      "union_id": "2485911",
+      "village_code": "24859110786",
+      "name": "Bairati Parchim Para"
+    },
+    {
+      "id": "0716",
+      "union_id": "2485911",
+      "village_code": "24859110787",
+      "name": "Biramchar"
+    },
+    {
+      "id": "0717",
+      "union_id": "2485911",
+      "village_code": "24859110788",
+      "name": "Burburi"
+    },
+    {
+      "id": "0718",
+      "union_id": "2485911",
+      "village_code": "24859110789",
+      "name": "Imam Nagor"
+    },
+    {
+      "id": "0719",
+      "union_id": "2485911",
+      "village_code": "24859110790",
+      "name": "Jadobpur"
+    },
+    {
+      "id": "0720",
+      "union_id": "2485913",
+      "village_code": "24859130791",
+      "name": "Atpasa"
+    },
+    {
+      "id": "0721",
+      "union_id": "2485913",
+      "village_code": "24859130792",
+      "name": "Borokanda"
+    },
+    {
+      "id": "0722",
+      "union_id": "2485913",
+      "village_code": "24859130793",
+      "name": "Chakesehor"
+    },
+    {
+      "id": "0723",
+      "union_id": "2485913",
+      "village_code": "24859130794",
+      "name": "Dhaki Purbahati"
+    },
+    {
+      "id": "0724",
+      "union_id": "2485913",
+      "village_code": "24859130795",
+      "name": "Gobindapur"
+    },
+    {
+      "id": "0725",
+      "union_id": "2485913",
+      "village_code": "24859130796",
+      "name": "Pulahani"
+    },
+    {
+      "id": "0726",
+      "union_id": "2485913",
+      "village_code": "24859130797",
+      "name": "Shantipur"
+    },
+    {
+      "id": "0727",
+      "union_id": "2485927",
+      "village_code": "24859270798",
+      "name": "Chomokpur"
+    },
+    {
+      "id": "0728",
+      "union_id": "2485927",
+      "village_code": "24859270799",
+      "name": "Hosenpur"
+    },
+    {
+      "id": "0729",
+      "union_id": "2485927",
+      "village_code": "24859270800",
+      "name": "Khalapara"
+    },
+    {
+      "id": "0730",
+      "union_id": "2485927",
+      "village_code": "24859270801",
+      "name": "Shihara"
+    },
+    {
+      "id": "0731",
+      "union_id": "2485954",
+      "village_code": "24859540802",
+      "name": "Beshore Khona"
+    },
+    {
+      "id": "0732",
+      "union_id": "2485954",
+      "village_code": "24859540803",
+      "name": "Char Khatkhal"
+    },
+    {
+      "id": "0733",
+      "union_id": "2485954",
+      "village_code": "24859540804",
+      "name": "Dhalargaon"
+    },
+    {
+      "id": "0734",
+      "union_id": "2485954",
+      "village_code": "24859540805",
+      "name": "Khoysher"
+    },
+    {
+      "id": "0735",
+      "union_id": "2485954",
+      "village_code": "24859540806",
+      "name": "Maddha Shaheb Nagor"
+    },
+    {
+      "id": "0736",
+      "union_id": "2485954",
+      "village_code": "24859540807",
+      "name": "Paschim Hasimpur"
+    },
+    {
+      "id": "0737",
+      "union_id": "2487623",
+      "village_code": "24876230808",
+      "name": "Bijoynagor"
+    },
+    {
+      "id": "0738",
+      "union_id": "2487623",
+      "village_code": "24876230809",
+      "name": "Dakhinpara Uttar"
+    },
+    {
+      "id": "0739",
+      "union_id": "2487623",
+      "village_code": "24876230810",
+      "name": "Dokhinpara Dokhin"
+    },
+    {
+      "id": "0740",
+      "union_id": "2487623",
+      "village_code": "24876230811",
+      "name": "Dokhinpara Madha"
+    },
+    {
+      "id": "0741",
+      "union_id": "2487623",
+      "village_code": "24876230812",
+      "name": "Kalu Munshir Hati"
+    },
+    {
+      "id": "0742",
+      "union_id": "2487623",
+      "village_code": "24876230813",
+      "name": "Madhapara"
+    },
+    {
+      "id": "0743",
+      "union_id": "2487623",
+      "village_code": "24876230814",
+      "name": "Mizalipara"
+    },
+    {
+      "id": "0744",
+      "union_id": "2487623",
+      "village_code": "24876230815",
+      "name": "Puran Hati"
+    },
+    {
+      "id": "0745",
+      "union_id": "2487623",
+      "village_code": "24876230816",
+      "name": "Purba Para"
+    },
+    {
+      "id": "0746",
+      "union_id": "2487623",
+      "village_code": "24876230817",
+      "name": "Sonaullah Hati"
+    },
+    {
+      "id": "0747",
+      "union_id": "2487627",
+      "village_code": "24876270818",
+      "name": "Aliapara"
+    },
+    {
+      "id": "0748",
+      "union_id": "2487627",
+      "village_code": "24876270819",
+      "name": "Asanpur"
+    },
+    {
+      "id": "0749",
+      "union_id": "2487627",
+      "village_code": "24876270820",
+      "name": "Borkanda"
+    },
+    {
+      "id": "0750",
+      "union_id": "2487627",
+      "village_code": "24876270821",
+      "name": "Diruail"
+    },
+    {
+      "id": "0751",
+      "union_id": "2487627",
+      "village_code": "24876270822",
+      "name": "Kamalpur"
+    },
+    {
+      "id": "0752",
+      "union_id": "2487627",
+      "village_code": "24876270823",
+      "name": "Noyapara"
+    },
+    {
+      "id": "0753",
+      "union_id": "2487627",
+      "village_code": "24876270824",
+      "name": "Purba Hati"
+    },
+    {
+      "id": "0754",
+      "union_id": "2487627",
+      "village_code": "24876270948",
+      "name": "PurbaPara"
+    },
+    {
+      "id": "0755",
+      "union_id": "2487627",
+      "village_code": "24876270825",
+      "name": "Shaheb Hati"
+    },
+    {
+      "id": "0756",
+      "union_id": "2487627",
+      "village_code": "24876270826",
+      "name": "Uattar Dhampara"
+    },
+    {
+      "id": "0757",
+      "union_id": "2487657",
+      "village_code": "24876570827",
+      "name": "Badorpur"
+    },
+    {
+      "id": "0758",
+      "union_id": "2487657",
+      "village_code": "24876570828",
+      "name": "Goripur"
+    },
+    {
+      "id": "0759",
+      "union_id": "2487657",
+      "village_code": "24876570829",
+      "name": "Jalalpur"
+    },
+    {
+      "id": "0760",
+      "union_id": "2487657",
+      "village_code": "24876570830",
+      "name": "Karpasha"
+    },
+    {
+      "id": "0761",
+      "union_id": "2487657",
+      "village_code": "24876570831",
+      "name": "Saharmul"
+    },
+    {
+      "id": "0762",
+      "union_id": "2487685",
+      "village_code": "24876850832",
+      "name": "Dobi"
+    },
+    {
+      "id": "0763",
+      "union_id": "2487685",
+      "village_code": "24876850833",
+      "name": "Goradiga"
+    },
+    {
+      "id": "0764",
+      "union_id": "2487685",
+      "village_code": "24876850834",
+      "name": "Islampur"
+    },
+    {
+      "id": "0765",
+      "union_id": "2487685",
+      "village_code": "24876850836",
+      "name": "Tanguria"
+    },
+    {
+      "id": "0766",
+      "union_id": "2723827",
+      "village_code": "27238270890",
+      "name": "Batuail"
+    },
+    {
+      "id": "0767",
+      "union_id": "2723827",
+      "village_code": "27238270891",
+      "name": "Boyra"
+    },
+    {
+      "id": "0768",
+      "union_id": "2723827",
+      "village_code": "27238270892",
+      "name": "Charpara"
+    },
+    {
+      "id": "0769",
+      "union_id": "2723827",
+      "village_code": "27238270893",
+      "name": "Daudpur"
+    },
+    {
+      "id": "0770",
+      "union_id": "2723827",
+      "village_code": "27238270894",
+      "name": "Gazipur"
+    },
+    {
+      "id": "0771",
+      "union_id": "2723840",
+      "village_code": "27238400895",
+      "name": "Amanipur"
+    },
+    {
+      "id": "0772",
+      "union_id": "2723840",
+      "village_code": "27238400896",
+      "name": "Chanpur"
+    },
+    {
+      "id": "0773",
+      "union_id": "2723840",
+      "village_code": "27238400897",
+      "name": "Kadirpur"
+    },
+    {
+      "id": "0774",
+      "union_id": "2723840",
+      "village_code": "27238400898",
+      "name": "Mujib Nagor"
+    },
+    {
+      "id": "0775",
+      "union_id": "2723840",
+      "village_code": "27238400899",
+      "name": "Royail"
+    },
+    {
+      "id": "0776",
+      "union_id": "2723867",
+      "village_code": "27238670900",
+      "name": "Asadpur"
+    },
+    {
+      "id": "0777",
+      "union_id": "2723867",
+      "village_code": "27238670901",
+      "name": "Banuari"
+    },
+    {
+      "id": "0778",
+      "union_id": "2723867",
+      "village_code": "27238670902",
+      "name": "Birbilla"
+    },
+    {
+      "id": "0779",
+      "union_id": "2723867",
+      "village_code": "27238670903",
+      "name": "Mendipur Bamonikona"
+    },
+    {
+      "id": "0780",
+      "union_id": "2723867",
+      "village_code": "27238670904",
+      "name": "Nuralipur"
+    },
+    {
+      "id": "0781",
+      "union_id": "2723867",
+      "village_code": "27238670905",
+      "name": "Rosulpur"
+    },
+    {
+      "id": "0782",
+      "union_id": "2723881",
+      "village_code": "27238810906",
+      "name": "Adompur"
+    },
+    {
+      "id": "0783",
+      "union_id": "2723881",
+      "village_code": "27238810907",
+      "name": "Bagatiea"
+    },
+    {
+      "id": "0784",
+      "union_id": "2723881",
+      "village_code": "27238810908",
+      "name": "Goul Bari"
+    },
+    {
+      "id": "0785",
+      "union_id": "2723881",
+      "village_code": "27238810909",
+      "name": "Hayatepur"
+    },
+    {
+      "id": "0786",
+      "union_id": "2723881",
+      "village_code": "27238810910",
+      "name": "Kusalpur"
+    },
+    {
+      "id": "0787",
+      "union_id": "2723881",
+      "village_code": "27238810911",
+      "name": "Noagaon"
+    },
+    {
+      "id": "0788",
+      "union_id": "2723881",
+      "village_code": "27238810912",
+      "name": "Sograkhi"
+    },
+    {
+      "id": "0789",
+      "union_id": "2723881",
+      "village_code": "27238810913",
+      "name": "Tatia"
+    },
+    {
+      "id": "0790",
+      "union_id": "2724011",
+      "village_code": "27240110837",
+      "name": "Bara Kharpan"
+    },
+    {
+      "id": "0791",
+      "union_id": "2724011",
+      "village_code": "27240110838",
+      "name": "Bawshari"
+    },
+    {
+      "id": "0792",
+      "union_id": "2724011",
+      "village_code": "27240110839",
+      "name": "Borayuand"
+    },
+    {
+      "id": "0793",
+      "union_id": "2724011",
+      "village_code": "27240110840",
+      "name": "Dakshin Chemti"
+    },
+    {
+      "id": "0794",
+      "union_id": "2724011",
+      "village_code": "27240110841",
+      "name": "Gobindrapur"
+    },
+    {
+      "id": "0795",
+      "union_id": "2724011",
+      "village_code": "27240110842",
+      "name": "Goipur"
+    },
+    {
+      "id": "0796",
+      "union_id": "2724011",
+      "village_code": "27240110843",
+      "name": "Kasobpur"
+    },
+    {
+      "id": "0797",
+      "union_id": "2724011",
+      "village_code": "27240110844",
+      "name": "Parilakul"
+    },
+    {
+      "id": "0798",
+      "union_id": "2724011",
+      "village_code": "27240110845",
+      "name": "Photika"
+    },
+    {
+      "id": "0799",
+      "union_id": "2724011",
+      "village_code": "27240110846",
+      "name": "Raj Nagor"
+    },
+    {
+      "id": "0800",
+      "union_id": "2724047",
+      "village_code": "27240470847",
+      "name": "Aralia Gowripur"
+    },
+    {
+      "id": "0801",
+      "union_id": "2724047",
+      "village_code": "27240470848",
+      "name": "Bishawnathpur Baithakhali"
+    },
+    {
+      "id": "0802",
+      "union_id": "2724047",
+      "village_code": "27240470849",
+      "name": "Charpara"
+    },
+    {
+      "id": "0803",
+      "union_id": "2724047",
+      "village_code": "27240470850",
+      "name": "Kaitapur Sripur"
+    },
+    {
+      "id": "0804",
+      "union_id": "2724047",
+      "village_code": "27240470851",
+      "name": "Kharnai"
+    },
+    {
+      "id": "0805",
+      "union_id": "2724047",
+      "village_code": "27240470852",
+      "name": "Konapara"
+    },
+    {
+      "id": "0806",
+      "union_id": "2724047",
+      "village_code": "27240470853",
+      "name": "Lokkhipur"
+    },
+    {
+      "id": "0807",
+      "union_id": "2724047",
+      "village_code": "27240470854",
+      "name": "Naya Para"
+    },
+    {
+      "id": "0808",
+      "union_id": "2724047",
+      "village_code": "27240470855",
+      "name": "Sundorighat"
+    },
+    {
+      "id": "0809",
+      "union_id": "2724047",
+      "village_code": "27240470856",
+      "name": "Tilokpur"
+    },
+    {
+      "id": "0810",
+      "union_id": "2724059",
+      "village_code": "27240590857",
+      "name": "Chaitanagor"
+    },
+    {
+      "id": "0811",
+      "union_id": "2724059",
+      "village_code": "27240590858",
+      "name": "Dakshin Goragaon"
+    },
+    {
+      "id": "0812",
+      "union_id": "2724059",
+      "village_code": "27240590859",
+      "name": "Gouripur"
+    },
+    {
+      "id": "0813",
+      "union_id": "2724059",
+      "village_code": "27240590860",
+      "name": "Jigatola"
+    },
+    {
+      "id": "0814",
+      "union_id": "2724059",
+      "village_code": "27240590861",
+      "name": "Kalapani"
+    },
+    {
+      "id": "0815",
+      "union_id": "2724059",
+      "village_code": "27240590862",
+      "name": "Kebalpur"
+    },
+    {
+      "id": "0816",
+      "union_id": "2724059",
+      "village_code": "27240590863",
+      "name": "Manikpur"
+    },
+    {
+      "id": "0817",
+      "union_id": "2724059",
+      "village_code": "27240590864",
+      "name": "Nayan Kandi"
+    },
+    {
+      "id": "0818",
+      "union_id": "2724059",
+      "village_code": "27240590865",
+      "name": "Rajnagar"
+    },
+    {
+      "id": "0819",
+      "union_id": "2724059",
+      "village_code": "27240590866",
+      "name": "Taranagor"
+    },
+    {
+      "id": "0820",
+      "union_id": "2724059",
+      "village_code": "27240590867",
+      "name": "Uttar Para"
+    },
+    {
+      "id": "0821",
+      "union_id": "2724083",
+      "village_code": "27240830868",
+      "name": "Bade Charulia"
+    },
+    {
+      "id": "0822",
+      "union_id": "2724083",
+      "village_code": "27240830869",
+      "name": "Gonganagar"
+    },
+    {
+      "id": "0823",
+      "union_id": "2724083",
+      "village_code": "27240830870",
+      "name": "Guatola"
+    },
+    {
+      "id": "0824",
+      "union_id": "2724083",
+      "village_code": "27240830871",
+      "name": "Kagojipara"
+    },
+    {
+      "id": "0825",
+      "union_id": "2724083",
+      "village_code": "27240830872",
+      "name": "Khatesalenga"
+    },
+    {
+      "id": "0826",
+      "union_id": "2724083",
+      "village_code": "27240830873",
+      "name": "Kutigaon"
+    },
+    {
+      "id": "0827",
+      "union_id": "2724083",
+      "village_code": "27240830874",
+      "name": "Mulgaon"
+    },
+    {
+      "id": "0828",
+      "union_id": "2724083",
+      "village_code": "27240830875",
+      "name": "Pathanpara"
+    },
+    {
+      "id": "0829",
+      "union_id": "2724083",
+      "village_code": "27240830876",
+      "name": "Potton Charulia"
+    },
+    {
+      "id": "0830",
+      "union_id": "2724083",
+      "village_code": "27240830877",
+      "name": "Rampur"
+    },
+    {
+      "id": "0831",
+      "union_id": "2724083",
+      "village_code": "27240830878",
+      "name": "Shreepur"
+    },
+    {
+      "id": "0832",
+      "union_id": "2724095",
+      "village_code": "27240950879",
+      "name": "Baghber"
+    },
+    {
+      "id": "0833",
+      "union_id": "2724095",
+      "village_code": "27240950880",
+      "name": "Choita"
+    },
+    {
+      "id": "0834",
+      "union_id": "2724095",
+      "village_code": "27240950881",
+      "name": "Dayarkanda"
+    },
+    {
+      "id": "0835",
+      "union_id": "2724095",
+      "village_code": "27240950882",
+      "name": "Kristopur"
+    },
+    {
+      "id": "0836",
+      "union_id": "2724095",
+      "village_code": "27240950883",
+      "name": "Nolla Para"
+    },
+    {
+      "id": "0837",
+      "union_id": "2724095",
+      "village_code": "27240950884",
+      "name": "Noyachoyta"
+    },
+    {
+      "id": "0838",
+      "union_id": "2724095",
+      "village_code": "27240950885",
+      "name": "Panch Gaon"
+    },
+    {
+      "id": "0839",
+      "union_id": "2724095",
+      "village_code": "27240950886",
+      "name": "Paneshor Para"
+    },
+    {
+      "id": "0840",
+      "union_id": "2724095",
+      "village_code": "27240950887",
+      "name": "Raipur"
+    },
+    {
+      "id": "0841",
+      "union_id": "2724095",
+      "village_code": "27240950888",
+      "name": "Ramnathpur"
+    },
+    {
+      "id": "0842",
+      "union_id": "2724095",
+      "village_code": "27240950889",
+      "name": "Terotopa"
+    },
+    {
+      "id": "0843",
+      "union_id": "2725610",
+      "village_code": "27256100914",
+      "name": "Biashi"
+    },
+    {
+      "id": "0844",
+      "union_id": "2725610",
+      "village_code": "27256100915",
+      "name": "Dakshin Dewsohila"
+    },
+    {
+      "id": "0845",
+      "union_id": "2725610",
+      "village_code": "27256100916",
+      "name": "Dakshin Kanda"
+    },
+    {
+      "id": "0846",
+      "union_id": "2725610",
+      "village_code": "27256100917",
+      "name": "Dhankunia"
+    },
+    {
+      "id": "0847",
+      "union_id": "2725610",
+      "village_code": "27256100918",
+      "name": "Hasonpur"
+    },
+    {
+      "id": "0848",
+      "union_id": "2725610",
+      "village_code": "27256100919",
+      "name": "Lacherkanda"
+    },
+    {
+      "id": "0849",
+      "union_id": "2725610",
+      "village_code": "27256100920",
+      "name": "Makhna Dewan Para"
+    },
+    {
+      "id": "0850",
+      "union_id": "2725610",
+      "village_code": "27256100921",
+      "name": "Paschim Fatehpur"
+    },
+    {
+      "id": "0851",
+      "union_id": "2725610",
+      "village_code": "27256100922",
+      "name": "Rudrosree"
+    },
+    {
+      "id": "0852",
+      "union_id": "2725621",
+      "village_code": "27256210923",
+      "name": "Gobindasree-1"
+    },
+    {
+      "id": "0853",
+      "union_id": "2725621",
+      "village_code": "27256210924",
+      "name": "Gobindasree-2"
+    },
+    {
+      "id": "0854",
+      "union_id": "2725621",
+      "village_code": "27256210925",
+      "name": "Gobindasree-5"
+    },
+    {
+      "id": "0855",
+      "union_id": "2725621",
+      "village_code": "27256210926",
+      "name": "Kadamsree-7"
+    },
+    {
+      "id": "0856",
+      "union_id": "2725621",
+      "village_code": "27256210927",
+      "name": "Kadamsree-9"
+    },
+    {
+      "id": "0857",
+      "union_id": "2725663",
+      "village_code": "27256630928",
+      "name": "Ghatua"
+    },
+    {
+      "id": "0858",
+      "union_id": "2725663",
+      "village_code": "27256630929",
+      "name": "Katla"
+    },
+    {
+      "id": "0859",
+      "union_id": "2725663",
+      "village_code": "27256630930",
+      "name": "Noyapara"
+    },
+    {
+      "id": "0860",
+      "union_id": "2725663",
+      "village_code": "27256630931",
+      "name": "Poderkona"
+    },
+    {
+      "id": "0861",
+      "union_id": "2725663",
+      "village_code": "27256630932",
+      "name": "Ramdaskila"
+    },
+    {
+      "id": "0862",
+      "union_id": "2725663",
+      "village_code": "27256630933",
+      "name": "Ranihala"
+    },
+    {
+      "id": "0863",
+      "union_id": "2725663",
+      "village_code": "27256630934",
+      "name": "Ruhili"
+    },
+    {
+      "id": "0864",
+      "union_id": "2725673",
+      "village_code": "27256730935",
+      "name": "Alamshree"
+    },
+    {
+      "id": "0865",
+      "union_id": "2725673",
+      "village_code": "27256730936",
+      "name": "Bawsha"
+    },
+    {
+      "id": "0866",
+      "union_id": "2725673",
+      "village_code": "27256730937",
+      "name": "Chandratola"
+    },
+    {
+      "id": "0867",
+      "union_id": "2725673",
+      "village_code": "27256730938",
+      "name": "Gabartola"
+    },
+    {
+      "id": "0868",
+      "union_id": "2725673",
+      "village_code": "27256730939",
+      "name": "Makhna"
+    },
+    {
+      "id": "0869",
+      "union_id": "2725673",
+      "village_code": "27256730940",
+      "name": "Raztola"
+    },
+    {
+      "id": "0870",
+      "union_id": "2725684",
+      "village_code": "27256840941",
+      "name": "Bagjan"
+    },
+    {
+      "id": "0871",
+      "union_id": "2725684",
+      "village_code": "27256840942",
+      "name": "Balali"
+    },
+    {
+      "id": "0872",
+      "union_id": "2725684",
+      "village_code": "27256840943",
+      "name": "Basta"
+    },
+    {
+      "id": "0873",
+      "union_id": "2725684",
+      "village_code": "27256840944",
+      "name": "Doribinni"
+    },
+    {
+      "id": "0874",
+      "union_id": "2725684",
+      "village_code": "27256840945",
+      "name": "Dubaoula"
+    },
+    {
+      "id": "0875",
+      "union_id": "2725684",
+      "village_code": "27256840946",
+      "name": "Kawali Binni"
+    },
+    {
+      "id": "0876",
+      "union_id": "2725684",
+      "village_code": "27256840947",
+      "name": "Shibpasha"
+    },
+    {
+      "id": "0877",
+      "union_id": "2903321",
+      "village_code": "29033210648",
+      "name": "Alom Khali"
+    },
+    {
+      "id": "0878",
+      "union_id": "2903321",
+      "village_code": "29033210649",
+      "name": "Bag Mara"
+    },
+    {
+      "id": "0879",
+      "union_id": "2903321",
+      "village_code": "29033210650",
+      "name": "Bali Chora"
+    },
+    {
+      "id": "0880",
+      "union_id": "2903321",
+      "village_code": "29033210651",
+      "name": "Bogla Bazar"
+    },
+    {
+      "id": "0881",
+      "union_id": "2903321",
+      "village_code": "29033210652",
+      "name": "Champar gat"
+    },
+    {
+      "id": "0882",
+      "union_id": "2903321",
+      "village_code": "29033210653",
+      "name": "Dhormopur"
+    },
+    {
+      "id": "0883",
+      "union_id": "2903321",
+      "village_code": "29033210654",
+      "name": "Edu kuna"
+    },
+    {
+      "id": "0884",
+      "union_id": "2903321",
+      "village_code": "29033210655",
+      "name": "Kathalbari"
+    },
+    {
+      "id": "0885",
+      "union_id": "2903321",
+      "village_code": "29033210656",
+      "name": "Konda gaon"
+    },
+    {
+      "id": "0886",
+      "union_id": "2903361",
+      "village_code": "29033610657",
+      "name": "Arua khai"
+    },
+    {
+      "id": "0887",
+      "union_id": "2903361",
+      "village_code": "29033610658",
+      "name": "Bokterpur"
+    },
+    {
+      "id": "0888",
+      "union_id": "2903361",
+      "village_code": "29033610659",
+      "name": "Chawkir gat"
+    },
+    {
+      "id": "0889",
+      "union_id": "2903361",
+      "village_code": "29033610660",
+      "name": "Dolotpur"
+    },
+    {
+      "id": "0890",
+      "union_id": "2903361",
+      "village_code": "29033610661",
+      "name": "Islam Pur"
+    },
+    {
+      "id": "0891",
+      "union_id": "2903361",
+      "village_code": "29033610662",
+      "name": "Jirar gown"
+    },
+    {
+      "id": "0892",
+      "union_id": "2903361",
+      "village_code": "29033610663",
+      "name": "Matgown"
+    },
+    {
+      "id": "0893",
+      "union_id": "2903361",
+      "village_code": "29033610664",
+      "name": "Noagown"
+    },
+    {
+      "id": "0894",
+      "union_id": "2903361",
+      "village_code": "29033610665",
+      "name": "Rosoray"
+    },
+    {
+      "id": "0895",
+      "union_id": "2903361",
+      "village_code": "29033610666",
+      "name": "Shuri gown"
+    },
+    {
+      "id": "0896",
+      "union_id": "2903378",
+      "village_code": "29033780675",
+      "name": "Chengaia"
+    },
+    {
+      "id": "0897",
+      "union_id": "2903378",
+      "village_code": "29033780676",
+      "name": "Gopinagor"
+    },
+    {
+      "id": "0898",
+      "union_id": "2903378",
+      "village_code": "29033780677",
+      "name": "Horipodo Nagor"
+    },
+    {
+      "id": "0899",
+      "union_id": "2903378",
+      "village_code": "29033780678",
+      "name": "Notun Krishno Nagor"
+    },
+    {
+      "id": "0900",
+      "union_id": "2903378",
+      "village_code": "29033780679",
+      "name": "Notun nagor"
+    },
+    {
+      "id": "0901",
+      "union_id": "2903378",
+      "village_code": "29033780680",
+      "name": "Pandargaon"
+    },
+    {
+      "id": "0902",
+      "union_id": "2903378",
+      "village_code": "29033780681",
+      "name": "Polir Char"
+    },
+    {
+      "id": "0903",
+      "union_id": "2903378",
+      "village_code": "29033780682",
+      "name": "Puraton Krishno Nagor"
+    },
+    {
+      "id": "0904",
+      "union_id": "2903378",
+      "village_code": "29033780683",
+      "name": "Radha Nagor"
+    },
+    {
+      "id": "0905",
+      "union_id": "2903381",
+      "village_code": "29033810684",
+      "name": "Alipur"
+    },
+    {
+      "id": "0906",
+      "union_id": "2903381",
+      "village_code": "29033810685",
+      "name": "Boita Khai"
+    },
+    {
+      "id": "0907",
+      "union_id": "2903381",
+      "village_code": "29033810686",
+      "name": "Borkat Nagor"
+    },
+    {
+      "id": "0908",
+      "union_id": "2903381",
+      "village_code": "29033810687",
+      "name": "Hasan Bahar"
+    },
+    {
+      "id": "0909",
+      "union_id": "2903381",
+      "village_code": "29033810688",
+      "name": "Nurpur"
+    },
+    {
+      "id": "0910",
+      "union_id": "2903381",
+      "village_code": "29033810689",
+      "name": "Sarifpur"
+    },
+    {
+      "id": "0911",
+      "union_id": "2903381",
+      "village_code": "29033810690",
+      "name": "Tilagoan"
+    },
+    {
+      "id": "0912",
+      "union_id": "2903392",
+      "village_code": "29033920667",
+      "name": "Bissargoan"
+    },
+    {
+      "id": "0913",
+      "union_id": "2903392",
+      "village_code": "29033920668",
+      "name": "Dinertok"
+    },
+    {
+      "id": "0914",
+      "union_id": "2903392",
+      "village_code": "29033920669",
+      "name": "Dowlotpur"
+    },
+    {
+      "id": "0915",
+      "union_id": "2903392",
+      "village_code": "29033920670",
+      "name": "Gilachora"
+    },
+    {
+      "id": "0916",
+      "union_id": "2903392",
+      "village_code": "29033920671",
+      "name": "Habibnagor"
+    },
+    {
+      "id": "0917",
+      "union_id": "2903392",
+      "village_code": "29033920672",
+      "name": "Ladarkandi"
+    },
+    {
+      "id": "0918",
+      "union_id": "2903392",
+      "village_code": "29033920673",
+      "name": "Protaber goan"
+    },
+    {
+      "id": "0919",
+      "union_id": "2903392",
+      "village_code": "29033920674",
+      "name": "Purba Chairgaon"
+    },
+    {
+      "id": "0920",
+      "union_id": "2909233",
+      "village_code": "29092330699",
+      "name": "Durlovpur"
+    },
+    {
+      "id": "0921",
+      "union_id": "2909233",
+      "village_code": "29092330700",
+      "name": "Lama gaon"
+    },
+    {
+      "id": "0922",
+      "union_id": "2909233",
+      "village_code": "29092330701",
+      "name": "Mamudpur Parabekhoi"
+    },
+    {
+      "id": "0923",
+      "union_id": "2909233",
+      "village_code": "29092330702",
+      "name": "Manik Khila"
+    },
+    {
+      "id": "0924",
+      "union_id": "2909233",
+      "village_code": "29092330703",
+      "name": "Marala"
+    },
+    {
+      "id": "0925",
+      "union_id": "2909233",
+      "village_code": "29092330704",
+      "name": "Noya Nagor"
+    },
+    {
+      "id": "0926",
+      "union_id": "2909233",
+      "village_code": "29092330705",
+      "name": "Patabuka"
+    },
+    {
+      "id": "0927",
+      "union_id": "2909243",
+      "village_code": "29092430691",
+      "name": "Bener Bondh"
+    },
+    {
+      "id": "0928",
+      "union_id": "2909243",
+      "village_code": "29092430692",
+      "name": "Borodal Notun Hati"
+    },
+    {
+      "id": "0929",
+      "union_id": "2909243",
+      "village_code": "29092430693",
+      "name": "Borodal Vagbari"
+    },
+    {
+      "id": "0930",
+      "union_id": "2909243",
+      "village_code": "29092430694",
+      "name": "Chaturvuj"
+    },
+    {
+      "id": "0931",
+      "union_id": "2909243",
+      "village_code": "29092430695",
+      "name": "Kawkandi"
+    },
+    {
+      "id": "0932",
+      "union_id": "2909243",
+      "village_code": "29092430696",
+      "name": "Nalerbondh"
+    },
+    {
+      "id": "0933",
+      "union_id": "2909243",
+      "village_code": "29092430697",
+      "name": "Puran Hati"
+    },
+    {
+      "id": "0934",
+      "union_id": "2909243",
+      "village_code": "29092430698",
+      "name": "puran Khalash"
+    },
+    {
+      "id": "0935",
+      "union_id": "2909264",
+      "village_code": "29092640706",
+      "name": "Birnagor"
+    },
+    {
+      "id": "0936",
+      "union_id": "2909264",
+      "village_code": "29092640707",
+      "name": "Chiksha"
+    },
+    {
+      "id": "0937",
+      "union_id": "2909264",
+      "village_code": "29092640708",
+      "name": "Gobindho Sree"
+    },
+    {
+      "id": "0938",
+      "union_id": "2909264",
+      "village_code": "29092640709",
+      "name": "Ujan Tahirpur"
+    },
+    {
+      "id": "0939",
+      "union_id": "2909264",
+      "village_code": "29092640710",
+      "name": "Vati Jamal Gor"
+    },
+    {
+      "id": "0940",
+      "union_id": "2909264",
+      "village_code": "29092640711",
+      "name": "Vati Tahirpur"
+    },
+    {
+      "id": "0941",
+      "union_id": "2909292",
+      "village_code": "29092920712",
+      "name": "Baliyaghat"
+    },
+    {
+      "id": "0942",
+      "union_id": "2909292",
+      "village_code": "29092920713",
+      "name": "Cherar goan"
+    },
+    {
+      "id": "0943",
+      "union_id": "2909292",
+      "village_code": "29092920714",
+      "name": "Indro pur"
+    },
+    {
+      "id": "0944",
+      "union_id": "2909292",
+      "village_code": "29092920715",
+      "name": "Jamalpur"
+    },
+    {
+      "id": "0945",
+      "union_id": "2909292",
+      "village_code": "29092920716",
+      "name": "Jongolebari"
+    },
+    {
+      "id": "0946",
+      "union_id": "2909292",
+      "village_code": "29092920717",
+      "name": "Kholishajuri"
+    },
+    {
+      "id": "0947",
+      "union_id": "2909292",
+      "village_code": "29092920718",
+      "name": "Torong"
+    }
+  ]
+}

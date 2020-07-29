@@ -1,0 +1,579 @@
+{
+  "union": [
+    {
+      "id": "1322111",
+      "upazilla_id": "13221",
+      "name": "Adampur"
+    },
+    {
+      "id": "1322123",
+      "upazilla_id": "13221",
+      "name": "Austagram"
+    },
+    {
+      "id": "1322135",
+      "upazilla_id": "13221",
+      "name": "Badalpur"
+    },
+    {
+      "id": "1322147",
+      "upazilla_id": "13221",
+      "name": "Jalsuka"
+    },
+    {
+      "id": "1322183",
+      "upazilla_id": "13221",
+      "name": "Kalma"
+    },
+    {
+      "id": "1328813",
+      "upazilla_id": "13288",
+      "name": "Kastail"
+    },
+    {
+      "id": "1328838",
+      "upazilla_id": "13288",
+      "name": "Khayerpur Abdullahpur"
+    },
+    {
+      "id": "1328847",
+      "upazilla_id": "13288",
+      "name": "Shibpasha"
+    },
+    {
+      "id": "1328857",
+      "upazilla_id": "13288",
+      "name": "Bagar Char"
+    },
+    {
+      "id": "1328885",
+      "upazilla_id": "13288",
+      "name": "Merur Char"
+    },
+    {
+      "id": "1329112",
+      "upazilla_id": "13291",
+      "name": "Nilakshmia"
+    },
+    {
+      "id": "1329118",
+      "upazilla_id": "13291",
+      "name": "Sadhur Para"
+    },
+    {
+      "id": "1329125",
+      "upazilla_id": "13291",
+      "name": "Char Rajibpur"
+    },
+    {
+      "id": "1329144",
+      "upazilla_id": "13291",
+      "name": "Kodailkati"
+    },
+    {
+      "id": "1329150",
+      "upazilla_id": "13291",
+      "name": "Mohanganj"
+    },
+    {
+      "id": "1329156",
+      "upazilla_id": "13291",
+      "name": "Bara dhul"
+    },
+    {
+      "id": "1329175",
+      "upazilla_id": "13291",
+      "name": "Belkuchi"
+    },
+    {
+      "id": "1329188",
+      "upazilla_id": "13291",
+      "name": "Dakshin Paschim Baniachong"
+    },
+    {
+      "id": "1329194",
+      "upazilla_id": "13291",
+      "name": "Dakshin Purba Baniachong"
+    },
+    {
+      "id": "1390711",
+      "upazilla_id": "13907",
+      "name": "Daulatpur"
+    },
+    {
+      "id": "1390759",
+      "upazilla_id": "13907",
+      "name": "Makrampur"
+    },
+    {
+      "id": "1390771",
+      "upazilla_id": "13907",
+      "name": "Mandari"
+    },
+    {
+      "id": "1390783",
+      "upazilla_id": "13907",
+      "name": "Muradpur"
+    },
+    {
+      "id": "1392913",
+      "upazilla_id": "13929",
+      "name": "Pailarkandi"
+    },
+    {
+      "id": "1392915",
+      "upazilla_id": "13929",
+      "name": "Rajapur"
+    },
+    {
+      "id": "1392947",
+      "upazilla_id": "13929",
+      "name": "Sujatpur"
+    },
+    {
+      "id": "1392955",
+      "upazilla_id": "13929",
+      "name": "Uttar Paschim Baniachong"
+    },
+    {
+      "id": "1392979",
+      "upazilla_id": "13929",
+      "name": "Uttar Purba Baniachong"
+    },
+    {
+      "id": "1490819",
+      "upazilla_id": "14908",
+      "name": "Bara Bhita"
+    },
+    {
+      "id": "1490857",
+      "upazilla_id": "14908",
+      "name": "Bhanagmore"
+    },
+    {
+      "id": "1490876",
+      "upazilla_id": "14908",
+      "name": "Naodanga"
+    },
+    {
+      "id": "1491813",
+      "upazilla_id": "14918",
+      "name": "Shimulbari"
+    },
+    {
+      "id": "1491827",
+      "upazilla_id": "14918",
+      "name": "Erendabari"
+    },
+    {
+      "id": "1491867",
+      "upazilla_id": "14918",
+      "name": "Fazlupur"
+    },
+    {
+      "id": "1491881",
+      "upazilla_id": "14918",
+      "name": "Fulchhari"
+    },
+    {
+      "id": "1496111",
+      "upazilla_id": "14961",
+      "name": "Gazaria"
+    },
+    {
+      "id": "1496112",
+      "upazilla_id": "14961",
+      "name": "Uria"
+    },
+    {
+      "id": "1496125",
+      "upazilla_id": "14961",
+      "name": "Bagutia"
+    },
+    {
+      "id": "1496137",
+      "upazilla_id": "14961",
+      "name": "Gharjan"
+    },
+    {
+      "id": "1496144",
+      "upazilla_id": "14961",
+      "name": "Khas Kaulia"
+    },
+    {
+      "id": "1496150",
+      "upazilla_id": "14961",
+      "name": "Khas Pukuria"
+    },
+    {
+      "id": "1496163",
+      "upazilla_id": "14961",
+      "name": "Omarpur"
+    },
+    {
+      "id": "1496182",
+      "upazilla_id": "14961",
+      "name": "Sthal"
+    },
+    {
+      "id": "1497710",
+      "upazilla_id": "14977",
+      "name": "Belgachha"
+    },
+    {
+      "id": "1497731",
+      "upazilla_id": "14977",
+      "name": "Char Goalini"
+    },
+    {
+      "id": "1497742",
+      "upazilla_id": "14977",
+      "name": "Goaler Char"
+    },
+    {
+      "id": "1881113",
+      "upazilla_id": "18811",
+      "name": "Islampur"
+    },
+    {
+      "id": "1881127",
+      "upazilla_id": "18811",
+      "name": "Palbandha"
+    },
+    {
+      "id": "1881154",
+      "upazilla_id": "18811",
+      "name": "Badla"
+    },
+    {
+      "id": "1881181",
+      "upazilla_id": "18811",
+      "name": "Bougla Bazar"
+    },
+    {
+      "id": "1882721",
+      "upazilla_id": "18827",
+      "name": "Dhanpur"
+    },
+    {
+      "id": "1882723",
+      "upazilla_id": "18827",
+      "name": "Elongjuri"
+    },
+    {
+      "id": "1882727",
+      "upazilla_id": "18827",
+      "name": "Joysiddhi"
+    },
+    {
+      "id": "1882731",
+      "upazilla_id": "18827",
+      "name": "Lakshmipur"
+    },
+    {
+      "id": "1882737",
+      "upazilla_id": "18827",
+      "name": "Mriga"
+    },
+    {
+      "id": "1882771",
+      "upazilla_id": "18827",
+      "name": "Narsingpur"
+    },
+    {
+      "id": "1886714",
+      "upazilla_id": "18867",
+      "name": "Pandergaon"
+    },
+    {
+      "id": "1886729",
+      "upazilla_id": "18867",
+      "name": "Surma"
+    },
+    {
+      "id": "1886736",
+      "upazilla_id": "18867",
+      "name": "Gazipur"
+    },
+    {
+      "id": "1886765",
+      "upazilla_id": "18867",
+      "name": "Khaliajuri"
+    },
+    {
+      "id": "1886780",
+      "upazilla_id": "18867",
+      "name": "Mendipur"
+    },
+    {
+      "id": "1886794",
+      "upazilla_id": "18867",
+      "name": "Nagar"
+    },
+    {
+      "id": "2360227",
+      "upazilla_id": "23602",
+      "name": "Bara Kharpan"
+    },
+    {
+      "id": "2360254",
+      "upazilla_id": "23602",
+      "name": "Kharnai"
+    },
+    {
+      "id": "2360281",
+      "upazilla_id": "23602",
+      "name": "Lengura"
+    },
+    {
+      "id": "2361111",
+      "upazilla_id": "23611",
+      "name": "Pogla"
+    },
+    {
+      "id": "2361112",
+      "upazilla_id": "23611",
+      "name": "Rangchhati"
+    },
+    {
+      "id": "2361118",
+      "upazilla_id": "23611",
+      "name": "Fatehpur"
+    },
+    {
+      "id": "2361125",
+      "upazilla_id": "23611",
+      "name": "Gobindasree"
+    },
+    {
+      "id": "2361156",
+      "upazilla_id": "23611",
+      "name": "Maghan"
+    },
+    {
+      "id": "2361163",
+      "upazilla_id": "23611",
+      "name": "Nayekpur"
+    },
+    {
+      "id": "2361169",
+      "upazilla_id": "23611",
+      "name": "Tiasree"
+    },
+    {
+      "id": "2361175",
+      "upazilla_id": "23611",
+      "name": "Bairati"
+    },
+    {
+      "id": "2361188",
+      "upazilla_id": "23611",
+      "name": "Dhaki"
+    },
+    {
+      "id": "2480211",
+      "upazilla_id": "24802",
+      "name": "Ghagra"
+    },
+    {
+      "id": "2480223",
+      "upazilla_id": "24802",
+      "name": "Khatkhal"
+    },
+    {
+      "id": "2480259",
+      "upazilla_id": "24802",
+      "name": "Ballabher Khas"
+    },
+    {
+      "id": "2480271",
+      "upazilla_id": "24802",
+      "name": "Bamandanga"
+    },
+    {
+      "id": "2480283",
+      "upazilla_id": "24802",
+      "name": "Bhitarband"
+    },
+    {
+      "id": "2483317",
+      "upazilla_id": "24833",
+      "name": "Kachakata"
+    },
+    {
+      "id": "2483343",
+      "upazilla_id": "24833",
+      "name": "Kaliganj"
+    },
+    {
+      "id": "2483347",
+      "upazilla_id": "24833",
+      "name": "Kedar"
+    },
+    {
+      "id": "2483360",
+      "upazilla_id": "24833",
+      "name": "Narayanpur"
+    },
+    {
+      "id": "2483386",
+      "upazilla_id": "24833",
+      "name": "Royganj"
+    },
+    {
+      "id": "2485911",
+      "upazilla_id": "24859",
+      "name": "Gala"
+    },
+    {
+      "id": "2485913",
+      "upazilla_id": "24859",
+      "name": "Jalalpur"
+    },
+    {
+      "id": "2485927",
+      "upazilla_id": "24859",
+      "name": "Kaijuri"
+    },
+    {
+      "id": "2485954",
+      "upazilla_id": "24859",
+      "name": "Porjana"
+    },
+    {
+      "id": "2487623",
+      "upazilla_id": "24876",
+      "name": "Rupabati"
+    },
+    {
+      "id": "2487627",
+      "upazilla_id": "24876",
+      "name": "Sonatani"
+    },
+    {
+      "id": "2487657",
+      "upazilla_id": "24876",
+      "name": "Chhatir Char"
+    },
+    {
+      "id": "2487685",
+      "upazilla_id": "24876",
+      "name": "Dampara"
+    },
+    {
+      "id": "2723827",
+      "upazilla_id": "27238",
+      "name": "Karpasha"
+    },
+    {
+      "id": "2723840",
+      "upazilla_id": "27238",
+      "name": "Singpur"
+    },
+    {
+      "id": "2723867",
+      "upazilla_id": "27238",
+      "name": "Bidyananda"
+    },
+    {
+      "id": "2723881",
+      "upazilla_id": "27238",
+      "name": "Chhinai"
+    },
+    {
+      "id": "2724011",
+      "upazilla_id": "27240",
+      "name": "Gharialdanga"
+    },
+    {
+      "id": "2724047",
+      "upazilla_id": "27240",
+      "name": "Bhartkhali"
+    },
+    {
+      "id": "2724059",
+      "upazilla_id": "27240",
+      "name": "Haldia"
+    },
+    {
+      "id": "2724083",
+      "upazilla_id": "27240",
+      "name": "Jummerbari"
+    },
+    {
+      "id": "2724095",
+      "upazilla_id": "27240",
+      "name": "Kachua"
+    },
+    {
+      "id": "2725610",
+      "upazilla_id": "27256",
+      "name": "Saghata"
+    },
+    {
+      "id": "2725621",
+      "upazilla_id": "27256",
+      "name": "Belka"
+    },
+    {
+      "id": "2725663",
+      "upazilla_id": "27256",
+      "name": "Chandipur"
+    },
+    {
+      "id": "2725673",
+      "upazilla_id": "27256",
+      "name": "Chhaparhati"
+    },
+    {
+      "id": "2725684",
+      "upazilla_id": "27256",
+      "name": "Haripur"
+    },
+    {
+      "id": "2903321",
+      "upazilla_id": "29033",
+      "name": "Kanchibari"
+    },
+    {
+      "id": "2903361",
+      "upazilla_id": "29033",
+      "name": "Kapasia"
+    },
+    {
+      "id": "2903378",
+      "upazilla_id": "29033",
+      "name": "Sarbananda"
+    },
+    {
+      "id": "2903381",
+      "upazilla_id": "29033",
+      "name": "Sreepur"
+    },
+    {
+      "id": "2903392",
+      "upazilla_id": "29033",
+      "name": "Tarapur"
+    },
+    {
+      "id": "2909233",
+      "upazilla_id": "29092",
+      "name": "Dakshin Baradal"
+    },
+    {
+      "id": "2909243",
+      "upazilla_id": "29092",
+      "name": "Dakshin Sreepur"
+    },
+    {
+      "id": "2909264",
+      "upazilla_id": "29092",
+      "name": "Tahirpur"
+    },
+    {
+      "id": "2909292",
+      "upazilla_id": "29092",
+      "name": "Uttar Sreepur"
+    }
+  ]
+}
